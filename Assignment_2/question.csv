@@ -1,0 +1,1001 @@
+id,creationdate,score,viewcount,title,answercount,tags,quest_name
+48046500,2018-01-01 00:35:52,1,126,Array in Pandas Dataframe,1,"python, json, pandas",Tobi
+48046520,2018-01-01 00:41:07,1,131,Pandas manual label encoding,0,"python, pandas",Marvin Taschenberger
+48046643,2018-01-01 01:26:14,0,487,Write Pandas Dataframe to CSV with a variable name in pathway,1,"pandas, operating-system, export-to-csv, sys",Matt
+48046647,2018-01-01 01:27:54,0,136,Adding a time index to a pandas dataframe from google finance,1,"python, pandas, datetime, indexing, google-finance-api",pmillerhk
+48046766,2018-01-01 02:07:39,-3,52,"How to convert values of a pandas data frame column to a numeric representation based on the number of unique values, all at once in Python?",1,"python, pandas",user2277675
+48047711,2018-01-01 06:50:10,1,47,create a dictionary in python from columns of a dataframe,1,"python, pandas, dictionary, key-value",Shuvayan Das
+48047782,2018-01-01 07:04:10,0,39,pandas clever way of setting columns under conditions,2,"python, pandas",user8641707
+48047935,2018-01-01 07:36:26,1,55,Pandas misinterpreting date column in CSV file,1,"python, pandas, csv, datetime",codenut
+48048322,2018-01-01 08:50:35,1,34,Summing up values across multiple columns into groups which are defined in a dictionary,1,"python, pandas, dictionary",Shuvayan Das
+48048504,2018-01-01 09:25:21,0,956,LabVIEW TDMS file read with python pandas,1,"python-3.x, pandas, labview",Sundar N
+48048515,2018-01-01 09:27:11,-3,52,Rewrite NLTK code to a function which can be used multiple times in Python,1,"python, function, pandas, nltk",Snehal pankaj
+48048577,2018-01-01 09:38:19,0,29,Formatting dataframe output into JSON records by group,1,"python, json, pandas, dataframe, group-by",Aman Singh
+48049087,2018-01-01 10:59:38,8,2098,NLTK-based text processing with pandas,1,"python, string, pandas, dataframe, nltk",ashok eapen
+48049206,2018-01-01 11:18:12,0,39,Calculating percentile of each device_id in a particular column,0,"python, pandas, percentile",Shuvayan Das
+48049635,2018-01-01 12:24:35,3,63,Transform pandas dataframe to another layout,2,"python, pandas, dataframe",user9160422
+48049690,2018-01-01 12:33:27,0,24,Vectorized operations on 2 columns of different dataframes,0,"python, pandas",Erick
+48050391,2018-01-01 14:18:01,1,41,Select python data-frame columns with similar names,2,"python, python-2.7, pandas, subset",Xiatingp
+48050769,2018-01-01 15:13:47,3,2054,Pandas dataframe to flask template as a json,1,"python, json, pandas, flask",Tobi
+48050906,2018-01-01 15:32:36,0,29,Multiple filter operations on the same dataframe [Pandas],1,"python, pandas",Muhammad Asif Khan
+48050998,2018-01-01 15:45:09,0,492,Label Binarizer: Multiple Columns,2,"python, python-3.x, pandas, scikit-learn",WhiteSolstice
+48051028,2018-01-01 15:49:18,0,1728,Convert a string to date Format: DD-MMM-YYYY to date time in Python,1,"python, string, pandas, date, dataframe",Viky N
+48051100,2018-01-01 15:56:55,4,8925,python pandas merge multiple csv files,3,"python, pandas, csv, datetime",Sayed Gouda
+48051178,2018-01-01 16:08:11,0,235,Python. creating Pie chart using existing Object?,0,"python-3.x, pandas, matplotlib, jupyter-notebook, pie-chart",Aziz Bokhari
+48051257,2018-01-01 16:19:03,-1,73,Join two Dataframe table,2,"python, pandas",doron
+48051767,2018-01-01 17:30:03,0,272,Creating Bigrams Phrases of a Column in Pandas using Gensim and attaching it to the to same dataframe,0,"pandas, nlp, word2vec, gensim, word-embedding",Rahul rajan
+48051800,2018-01-01 17:35:02,1,1987,Why DBSCAN clustering returns single cluster on Movie lens data set?,3,"python, pandas, cluster-analysis, dbscan",T3J45
+48052125,2018-01-01 18:20:39,5,2640,Why do I get an AttributeError when using pandas apply?,3,"python, pandas, dataframe, apply, attributeerror",LPR
+48052572,2018-01-01 19:24:43,0,40,Creating a Backup Dataframe from Entries Discarded by Pandas drop_duplicates(),1,"python, pandas",HMLDude
+48052898,2018-01-01 20:11:21,0,267,Merging pandas dataframes on dictionary,1,"python, pandas",Bjoern
+48053134,2018-01-01 20:48:31,1,310,Accessing the columns of pivot table in Python Pandas,0,"python, pandas, data-science, pandasql",dharmendra mishra
+48053139,2018-01-01 20:49:10,0,1002,Pandas - Turning column of mixed positive / negative numbers to positive,3,"python, pandas",Jasper
+48053207,2018-01-01 21:02:52,1,5753,Writing single CSV header with pandas,1,"python, pandas, csv, dataframe, header",HelloToEarth
+48053220,2018-01-01 21:04:52,1,343,Python/Pandas Subtract Only if Value is not 0,2,"python-3.x, pandas, dataframe, subtraction",Kimmy
+48053389,2018-01-01 21:32:49,0,168,DBAPI syntax with pd.read_sql_query() call,1,"python, pandas, sqlite3",3novak
+48053470,2018-01-01 21:43:38,2,105,Why don't these two table join in Python?,3,"python, python-3.x, pandas",dre
+48053823,2018-01-01 22:37:57,2,73,Tokenize and count tokens in grouped Pandas dataframe,0,"python, pandas, nlp, nltk, tokenize",user9161710
+48053885,2018-01-01 22:47:55,0,328,"Pandas: df.equals always returns false, even if True",2,"python, pandas",Jasper
+48053972,2018-01-01 23:03:20,0,532,"Pandas: ""data type datetime not understood"" error in date offset operation",0,"pandas, numpy, datetime",iwbabn
+48053981,2018-01-01 23:04:29,0,222,What is the most efficient way to dedupe a Pandas dataframe that has typos?,1,"python, pandas, nlp, python-dedupe",CJ Sullivan
+48054298,2018-01-02 00:13:05,0,35,Finding nearest timeindex for many categories,2,"python, pandas, time-series",tales
+48054473,2018-01-02 00:57:05,2,322,Python Pandas - from data frame create an array or matrix for multiplication,2,"python, arrays, pandas, numpy, matrix",
+48054704,2018-01-02 01:47:34,2,980,TypeError: Cannot convert value dtype('<M8[ns]') to a TensorFlow DType,1,"pandas, numpy, tensorflow",CpILL
+48055245,2018-01-02 03:23:08,0,28,How to get the last work week of the last month in previous year in Python Pandas?,1,"python-3.x, pandas, datetime",Shi Jie Tio
+48055379,2018-01-02 03:48:16,0,86,Which Python Magic Method is Pandas Using?,2,"python, pandas, getter-setter",HaPsantran
+48055428,2018-01-02 03:58:45,1,70,How to ensure the first work week start with 1 in python pandas?,1,"python, pandas, python-datetime",Shi Jie Tio
+48055894,2018-01-02 05:17:22,0,63,Add data from multiple dataframe by its index using pandas,1,"python, pandas",Fregy
+48055924,2018-01-02 05:21:47,1,183,How to use the diff() function in pandas but enter the difference values in a new column?,1,"pandas, dataframe, diff, difference",David Phooter
+48056568,2018-01-02 06:37:41,1,24,Add Time column by adding timedelata in pandas,1,pandas,Shubham
+48056977,2018-01-02 07:15:06,3,2764,Pandas merge TypeError: object of type 'NoneType' has no len(),1,"python, pandas",Chia Yi
+48057033,2018-01-02 07:20:04,1,99,Slice the column list (years) based on first character,1,"python, pandas, list-comprehension, data-science",Tytire Recubans
+48057864,2018-01-02 08:38:01,0,155,Pandas: Select all rows between two rows,2,"python, pandas",ThP
+48058173,2018-01-02 09:05:41,3,63,Python dataframe: simple string split that includes '-',2,"python, string, pandas, dataframe, split",Kang
+48058304,2018-01-02 09:16:43,1,354,How to apply series in isocalendar function in pandas python,1,"python, pandas, datetime",Shi Jie Tio
+48058917,2018-01-02 10:06:03,1,14,Joining dfs horizontaly with different axis output Nan values on one of the df values,1,pandas,ge00rge
+48059985,2018-01-02 11:16:58,2,229,pandas create boolean column using groupby transform,2,"python, python-3.x, pandas, pandas-groupby",daiyue
+48059994,2018-01-02 11:17:43,0,161,Mark Empty values in Pandas DataFrame Multi-Row Header,3,"python, pandas, csv, dataframe",Krzysztof Słowiński
+48060754,2018-01-02 12:09:38,0,29,"How to fill rows automatically in pandas, from the content found in a column?",1,"python, pandas",Reinaldo Chaves
+48060775,2018-01-02 12:11:18,2,58,How to get full spelling of month is using calender module in python pandas?,2,"python, python-3.x, pandas, datetime, calendar",Shi Jie Tio
+48061197,2018-01-02 12:39:11,3,98,"Pandas set_levels, how to avoid sorting of labels?",2,"python, pandas, multi-index",Dark
+48061547,2018-01-02 13:04:03,0,30,Reading csv with several subgroups,1,"python-2.7, pandas",gussilago
+48061793,2018-01-02 13:19:56,0,496,Alternatives to pandas apply due to MemoryError,1,"python, pandas, dataframe, apply",john
+48062296,2018-01-02 13:56:40,1,37,Pandas: Keep dataframes from dict that exclude certain values,1,"python, pandas, dictionary",ThP
+48062375,2018-01-02 14:02:34,0,95,Python Dataframe: Drop Rows if Column Contains Value From List --> Value TypeError: unhashable type: 'list',0,"python, list, pandas, dataframe, conditional",PineNuts0
+48062788,2018-01-02 14:32:46,0,241,Pandas - calculate row value based on previous calculated row value,1,"python, pandas",bdriven
+48062858,2018-01-02 14:36:41,1,49,Data Analyzed by Python CSV,2,"python, python-2.7, pandas, csv, dataframe",Martin Bouhier
+48062996,2018-01-02 14:46:31,1,1005,Assign values to columns based on conditions in a pandas dataframe,3,"python, pandas, condition",Shuvayan Das
+48063047,2018-01-02 14:49:46,3,1251,Airflow integration with BgQuery Error,2,"python, pandas, google-bigquery, airflow, apache-airflow",Tia
+48063307,2018-01-02 15:09:04,1,54,Pandas Multiindex selecting row skipping one level,4,pandas,Ranny
+48063620,2018-01-02 15:30:57,2,4027,pandas read_csv() for multiple delimiters,1,pandas,user77005
+48063807,2018-01-02 15:44:48,0,677,Data slicing a pandas frame - I'm having problems with unique,1,pandas,user1361529
+48064206,2018-01-02 16:09:59,0,71,Numpy repeat to odd length index,0,"python, pandas, numpy",Tony
+48064446,2018-01-02 16:25:29,0,36,How can I parse my CSV file,1,"python, pandas, csv",Stef Reyes
+48064468,2018-01-02 16:27:16,1,39,Merging multi-index dataframes based on similar groups/indexes,1,"python, pandas, sorting, merge",Mohammad ElNesr
+48064965,2018-01-02 17:01:32,1,633,drop unused categories using groupby on categorical variable in pandas,2,"python, pandas",tales
+48065402,2018-01-02 17:37:20,1,170,output table to left of horizontal bar chart with pandas,1,"python, python-3.x, pandas, matplotlib",Binoy Fernandez
+48066517,2018-01-02 19:12:03,24,33297,Python: Pandas pd.read_excel giving ImportError: Install xlrd >= 0.9.0 for Excel support,7,"python, excel, python-2.7, pandas",Vineeth Sai
+48066677,2018-01-02 19:26:31,0,57,Filter item iteration in dataframe (with FOR or any other)?,3,"python, pandas, dataframe, filter, iteration",Newbie
+48066933,2018-01-02 19:47:03,0,112,"Pandas, sorting days whilst preserving order",2,"python, pandas",Jasper
+48067021,2018-01-02 19:54:01,2,561,Pandas DataFrame apply or map dictionary valueassign column to function of MultiIndex value,3,"python, pandas, dictionary, dataframe, multi-index",feetwet
+48067038,2018-01-02 19:55:01,0,242,Pandas .cov() not positive semidefinite,0,"pandas, math, matrix, covariance",Pat
+48067318,2018-01-02 20:19:58,0,442,Python - to_csv,1,"python, pandas, amazon-redshift",jumpman23
+48067726,2018-01-02 20:55:19,0,52,python classify predictions,0,"python, pandas, scikit-learn",jumpman8947
+48067912,2018-01-02 21:13:12,0,700,pd.concat with multiindex,1,"pandas, multi-index",Jeff Tilton
+48068270,2018-01-02 21:45:11,1,623,Pandas - delete rows based on multiple `or` conditions,1,"python, pandas",Craig
+48068607,2018-01-02 22:18:24,0,26,New nulls when assigning series to dataframe column,1,"python, pandas, dataframe, null",Austin
+48068850,2018-01-02 22:43:43,0,242,How to Use Pandas to Combine Dataframes with Duplicate Index Values,1,"python-3.x, pandas, dataframe",Kimmy
+48068938,2018-01-02 22:55:11,2,671,set new index for pandas DataFrame (interpolating?),3,"pandas, numpy, interpolation",blokeley
+48069000,2018-01-02 23:01:28,0,45,Writing value to given filed in csv file using pandas or csv module,1,"python, excel, pandas, csv",hikamare
+48069497,2018-01-03 00:01:14,1,240,How do I import multiple excel files and merge them using openpyxl,0,"python, excel, pandas, csv, openpyxl",Carolina Estrella
+48069954,2018-01-03 01:14:14,1,205,pd.read_csv killed when Reading large files,0,"python, pandas, boto3",DPs
+48070143,2018-01-03 01:47:40,0,40,pandas (python) - reshaping two columns into one,1,"python, pandas, numpy, scipy",bullion352
+48070351,2018-01-03 02:19:47,-1,33,None values populating while merging list to a single column dataframe,1,"python, pandas, dataframe",Rahul rajan
+48070697,2018-01-03 03:17:29,0,750,can we predict two columns of a dataframe at same time?,2,"python, python-3.x, pandas, scikit-learn, sklearn-pandas",ganesh konathala
+48070828,2018-01-03 03:38:54,0,88,Validate that Values in DataFrame Found in List,1,"python, list, pandas, validation, dataframe",Chris Woodruff
+48071001,2018-01-03 04:05:31,1,117,Pandas -- Type error from Pivot,1,"python, pandas",unclegood
+48071205,2018-01-03 04:33:08,-1,79,Getting data from S3 (client) to our S3 (company),2,"pandas, amazon-web-services, apache-spark, amazon-s3, pyspark",Raghunandan Sk
+48071432,2018-01-03 05:01:10,1,170,Advance Rolling mean (with conditions applying) in pandas dataframe,1,"python, pandas",PUJA
+48071456,2018-01-03 05:03:34,-1,205,"Python Pandas Join, Merge and Concat",1,"python, pandas, data-science",dharmendra mishra
+48071662,2018-01-03 05:28:28,0,366,Select multiple columns with an interval in pandas dataframe,2,"python, pandas",mandar
+48071970,2018-01-03 05:59:58,1,157,Is it possible to split a Pandas dataframe using groupby and merge each group with separate dataframes,1,"python, python-3.x, pandas, pandas-groupby",user1718097
+48072484,2018-01-03 06:44:55,0,25,Customize reading pandas data frame of type pandas.core.series.Series,0,"python, pandas, series",ramkrishna
+48072537,2018-01-03 06:49:11,2,49,Pandas Dataframe groupby year and find top item,2,"python, pandas, dataframe, pandas-groupby",el323
+48073021,2018-01-03 07:31:47,0,30,Simulating online desicion making in Python,1,"python, pandas",Roy
+48073661,2018-01-03 08:23:57,1,298,Aggregate dataframe based on 2 categorical columns and value of 1 python,1,"python, pandas, group-by",PeCaDe
+48073718,2018-01-03 08:28:06,1,516,Word Replacement in text corpus using word2vec similarity dictionary in a pandas dataframe,1,"python, pandas, string-matching, word2vec, gensim",Shany Eapen
+48074166,2018-01-03 09:02:17,1,283,Python Pandas SUMPRODUCT and L Matrix caluclation,1,"python, excel, pandas, numpy-einsum",Marx Babu
+48074180,2018-01-03 09:03:03,1,135,replace a pandas series with the closest values from another series,1,"python, pandas",ihadanny
+48074845,2018-01-03 09:46:49,0,51,Add indicator to inform where the data came from Python,1,"python, pandas, concatenation, indicator",Charlie0210
+48075312,2018-01-03 10:13:29,1,282,Pandas multiple dataframes into single,1,"python, pandas, web-scraping, concatenation",Chris
+48076385,2018-01-03 11:23:06,1,15,Filter out according to specific multiple conditions in pandas,1,pandas,Bella
+48076607,2018-01-03 11:36:51,1,42,Fast way to replace value in sparse dataframe with value from dictionary,1,"python, pandas",famargar
+48077878,2018-01-03 12:56:51,0,225,Pandas dataframe groupby top N items,2,"python, pandas, group-by, pandas-groupby",el323
+48078134,2018-01-03 13:14:15,0,47,How to prevent output command from printing in Jupyter notebook?,0,"pandas, jupyter-notebook",Alex Trevylan
+48078558,2018-01-03 13:38:16,0,225,Python pandas DataFrame memory error,0,"python, pandas, out-of-memory",Kornel
+48078589,2018-01-03 13:40:23,0,49,what is the most efficient way to search for a string in a pandas column?,0,"python, string, list, pandas, append",Muhammed Eltabakh
+48079043,2018-01-03 14:09:58,2,34,find new exporting destinies: Data science - groupby and isin,3,"python, pandas, group-by",Lucas Dresl
+48079362,2018-01-03 14:29:34,1,179,How to find row which has the minimum overall distance from the other rows of the pandas dataframe,1,"python, pandas, distance",user3806649
+48080567,2018-01-03 15:41:07,0,28,Map dataframe column value by another column's value,2,"python, performance, pandas",Breton
+48081800,2018-01-03 16:57:10,0,645,Pandas automatically converting field type on read_csv,1,"python, pandas",Growler
+48081837,2018-01-03 16:59:32,1,550,pandas resample apply np.average,2,"python, pandas, resampling, pandas-apply",dreab
+48081901,2018-01-03 17:03:41,1,207,Can somebody explain Pandas bin precision?,1,"python, python-2.7, pandas, floating-point",komodovaran_
+48081927,2018-01-03 17:05:28,1,46,Adding a new column based on values of another column in Pandas(python),3,"python, pandas",Dawn17
+48082018,2018-01-03 17:11:12,2,58,How to create dataframe of top 5 close words to a particular word lists from a dictionary in pandas,1,"python, string, pandas, word2vec, gensim",pankaj
+48082257,2018-01-03 17:28:19,0,46,Pandas - Creating a Dataframe from a list of Dataframes based on some conditions,2,"python, pandas, dataframe",NixMan
+48082403,2018-01-03 17:38:30,1,159,Pandas - Groupby + Shift not working as expected,2,"python, pandas, group-by",Walt Reed
+48082515,2018-01-03 17:46:01,2,69,combine rows into single cell,3,"python, pandas, group-by",Kvothe
+48082523,2018-01-03 17:46:38,2,712,"Pandas: Split large file into seperate files by Date, preserving original ordering.",2,"python, pandas, pandas-groupby",Jasper
+48083074,2018-01-03 18:24:22,1,114,Conditional Concatenation Based on String Value in Column,1,"python, string, pandas",PineNuts0
+48083093,2018-01-03 18:25:11,1,53,"Pandas: per individual, find number of records that are near the current observation. Apply vs transform",2,"python, pandas, apply, pandas-groupby",cd98
+48083226,2018-01-03 18:34:38,0,54,Fancy indexing with portion of string in pandas,1,"python, pandas",The Nightman
+48083405,2018-01-03 18:48:30,21,5290,What are the differences between feather and parquet?,1,"python, pandas, parquet, feather, pyarrow",Darkonaut
+48083843,2018-01-03 19:21:50,1,256,Pandas set element style dependent on another dataframe mith multi index,1,"python, pandas, multi-index",Jeff Tilton
+48083944,2018-01-03 19:29:42,2,38,Eliminating duplicated rows by dropping varying columns and aggregating remaining rows,3,"python, pandas, dataframe, group-by, pandas-groupby",ParalysisByAnalysis
+48084356,2018-01-03 20:02:24,2,589,How to use generators in Pandas,2,"python, pandas, generator",Iwan
+48084451,2018-01-03 20:09:46,-1,77,Creating new pandas columns with original value plus random number in error range,2,"python, pandas, numpy",menrva
+48084971,2018-01-03 20:53:04,0,638,Search for specific string in multiple excel files,2,"python, excel, python-3.x, pandas",Rasmus Bidstrup
+48085579,2018-01-03 21:46:08,0,133,pandas dataframe apply function over column creating multiple columns,2,"python, pandas, apply",Joseph Noirre
+48085956,2018-01-03 22:15:06,0,43,How to assign a number to a value falling in a certain bin,1,"python, pandas",Patthebug
+48086457,2018-01-03 23:10:37,1,43,Combine rows in a DataFrame & add the value as a column,4,"python, pandas, dataframe, pandas-groupby",rishabh
+48087534,2018-01-04 01:34:37,2,2022,Checking a Pandas Dataframe for Outliers,1,"python, pandas",Adi
+48087693,2018-01-04 02:02:05,0,38,consolidating duplicate index values into single row (single index) pandas,1,"python, pandas",thomas.mac
+48087700,2018-01-04 02:02:53,0,121,Counter Column in Pandas DataFrame where it changes based on other column,1,"python, pandas, calculated-columns",Harold Chaw
+48087707,2018-01-04 02:03:36,1,75,Shifting a date time index,1,"python, pandas",Saeed
+48088128,2018-01-04 03:08:58,0,1048,Matplotlib bar chart show x-ticks only at non-zero bars,2,"python, pandas, matplotlib, plot, figure",XyledMonkey
+48088265,2018-01-04 03:29:45,0,87,"Create a ""directional"" pandas pct_change function",1,"python, pandas, math, percentage",cwse
+48088686,2018-01-04 04:29:24,2,727,"Remove duplicates from rows and columns (cell) in a dataframe, python",4,"python, pandas, dataframe",PAstudilloE
+48088750,2018-01-04 04:37:54,1,137,Sometimes Getting empty DataFrame while using SQL query through pandas.read_sql_query,0,"python, sql, sqlite, pandas",aditass
+48088917,2018-01-04 04:59:19,0,28,break up dateframe into smaller pieces by date,0,"python, pandas, datetime, chunking",user3757265
+48088965,2018-01-04 05:05:35,1,106,subsetting pandas dataframe,2,"python, pandas, subset",Niccola Tartaglia
+48089141,2018-01-04 05:24:03,0,40,How to write words having similarity above .6 to a specific word from a dictionary to a dataframe in pandas,1,"python, string, pandas, word2vec, gensim",Rahul rajan
+48089786,2018-01-04 06:25:20,2,426,How to query a numerical column name in pandas?,1,"python, pandas, pandas-query",Dark
+48090128,2018-01-04 06:53:34,3,208,Fill nulls until certain column value in Pandas,2,"python, pandas",Iyad Al aqel
+48090227,2018-01-04 07:01:26,2,906,Rolling Gradient for Pandas Dataframe column,2,"python, pandas, gradient, rolling",cwse
+48090657,2018-01-04 07:34:00,-1,153,How to pick the rows which contains all the keywords?,2,"python, pandas",Prabu
+48090691,2018-01-04 07:36:25,1,150,Pandas plot table is not plotting all the columns,0,"python, pandas, matplotlib, plot",Nitesh kumar
+48090732,2018-01-04 07:39:47,1,132,"Pandas, Postgres, and Daylight Savings Time (DST)",0,"python, postgresql, pandas, python-3.6",davidrpugh
+48092427,2018-01-04 09:39:16,0,2131,forward fill (ffill) based on group and previous row pandas,2,"python, pandas",A H
+48093234,2018-01-04 10:24:58,2,53,"How does a double ""for"" work in list comprehension?",1,"python, python-3.x, pandas",Archan Joshi
+48093269,2018-01-04 10:27:12,0,728,Python ValueError: Can only compare identically-labeled Series objects,1,"python, pandas",Python Learner
+48093437,2018-01-04 10:37:49,1,687,"How to read a CSV file with multiple headers into two DataFrames in pandas, one with the headers and one with the data with some headers removed?",1,"python, pandas, csv, dataframe",Krzysztof Słowiński
+48093693,2018-01-04 10:53:48,0,135,Python (pandas._libs.tslib.Timestamp) - Returning Values,0,"python, pandas, timestamp",RiskTech
+48094160,2018-01-04 11:21:40,1,47,"Python Multi-Index: Finding cordinates with level 2 index, DataFrame",1,"python, pandas, dataframe, indexing, multi-index",Kang
+48094572,2018-01-04 11:44:31,3,337,Find the column index which has the maximum value for each row,3,"pandas, argmax",msksantosh
+48094854,2018-01-04 12:01:18,3,16658,Python convert object to float,2,"python, pandas",Almog Woldenberg
+48097742,2018-01-04 14:48:42,4,2543,geopandas point in polygon,2,"python, pandas, geopandas, point-in-polygon",Kvothe
+48097849,2018-01-04 14:54:49,2,74,pandas dataframe search column of by list,1,"python, pandas",Steffen Kaminski
+48098128,2018-01-04 15:09:32,2,156,Counting cumulative occurrences of values based on date window in Pandas,3,"python, pandas",dimitris_ps
+48098331,2018-01-04 15:21:23,1,211,Bar plot with date range cuts bars in plotly,1,"python, pandas, plotly",user32185
+48098415,2018-01-04 15:26:51,0,44,Call a function on an object and assign the return to the same object at the same time,2,"python, pandas",salhin
+48098753,2018-01-04 15:44:58,0,74,Python matplotlib 2 y axis components,3,"python-3.x, pandas, matplotlib, data-science",HenryHub
+48099555,2018-01-04 16:30:27,1,55,Sorting all the values in a pandas matrix,3,"python, pandas, sorting",Mike
+48099843,2018-01-04 16:45:37,1,264,Compare timestamps in subsequent records with pandas,1,"python, database, pandas, dataframe, pandas-groupby",Sharonio
+48100356,2018-01-04 17:16:49,0,69,Appending row values of a CSV file if duplicate,2,"python, pandas, dataframe",Macterror
+48100608,2018-01-04 17:33:38,-2,39,"Pandas not plotting the kind ""line""",1,"python, pandas, matplotlib",wazo
+48100919,2018-01-04 17:53:17,0,345,Python Pandas: Ploting GPS track as it evolves in time,1,"python, pandas, gps, time-series",dokondr
+48101301,2018-01-04 18:19:50,0,306,Python: Pandas data-frame inside a function,1,"function, pandas",Ashok
+48101314,2018-01-04 18:20:22,0,298,Loop through grouped data - Python/Pandas,1,"python, pandas, pandas-groupby",natnay
+48101560,2018-01-04 18:37:39,1,81,Expand list column into values and days with Pandas,2,"python, pandas",jnard0ne
+48101897,2018-01-04 19:03:52,2,166,Boolean Logic Comparing Data From Two Pandas Dataframes,2,"python, python-3.x, pandas, numpy, scikit-learn",HMLDude
+48102138,2018-01-04 19:21:30,1,73,How would I insert missing rows into this data set?,1,"python, pandas, numpy",Michael Melillo
+48102713,2018-01-04 20:01:48,0,435,Fuzzy Match List with Column in a data frame,1,"python, string, pandas, match, fuzzywuzzy",EEPBAH
+48103154,2018-01-04 20:34:10,0,57,Dataframe Comparison,3,"python-3.x, pandas, numpy",Tyler Russell
+48103323,2018-01-04 20:46:27,0,311,Cannot do AND operation on 2 columns of pandas dataframe,1,"python, pandas, dataframe",Sachin Myneni
+48103536,2018-01-04 21:02:52,4,248,Stripping proper nouns from text,2,"python, python-3.x, pandas, spacy",LMGagne
+48103749,2018-01-04 21:21:13,0,77,"Pandas convert to percent, groupby, and transform",1,"python, pandas, dataframe",DH_III
+48103801,2018-01-04 21:24:36,0,318,Matplotlib put x ticks above bar,2,"python, pandas, matplotlib, plot, figure",XyledMonkey
+48103845,2018-01-04 21:28:33,4,2439,Python Pandas Sum Values in Columns If date between 2 dates,2,"python, pandas, dataframe, pandas-groupby, melt",clg4
+48103892,2018-01-04 21:32:06,2,74,Python DataFrame Replace '+',2,"python, pandas, dataframe, replace",MethJordan
+48104291,2018-01-04 22:07:12,1,446,Large data with pivot table using Pandas,1,"python, pandas, dataframe, bigdata, pivot-table",Dat Nguyen
+48104933,2018-01-04 23:11:42,1,48,counting number of new values per month in pandas dataframe,1,"python-2.7, pandas",Hirotaka Nakagame
+48105458,2018-01-05 00:15:25,0,22,Appending Rows From an Same Dataframe,0,"python-3.x, pandas, spyder",Christopher Ell
+48105485,2018-01-05 00:18:26,0,49,How can I concat Dataframe?,1,"python-3.x, pandas",Stef Reyes
+48105937,2018-01-05 01:24:54,1,170,Unable to fillna a column in dataframe with values from a series,1,"python, pandas, dataframe",Sachin Myneni
+48106341,2018-01-05 02:19:19,1,30,Clearing certain data from column dataframe,3,"python, pandas",Adam
+48106822,2018-01-05 03:27:25,0,63,Concat files using pandas python,1,"python, excel, pandas, concat",brianvu1892
+48107089,2018-01-05 04:10:51,0,240,Feature Union with Pandas: Properly Selecting Columns?,0,"pandas, machine-learning, scikit-learn",thewhitetie
+48107528,2018-01-05 05:11:54,2,551,Insert pandas dataframe into mongodb,1,"python, pandas, dataframe, pymongo",TB.M
+48107796,2018-01-05 05:40:14,0,622,PANDAS: Wrong column names while importing data from csv file,1,"python, pandas, csv, import-from-csv",aditass
+48107922,2018-01-05 05:52:25,0,498,How to replace a string using a dictionary containing multiple values for a key in python,1,"python, regex, pandas, dictionary",Rahul rajan
+48107991,2018-01-05 05:58:12,0,88,Create a source target pandas dataframe from strings of flows,2,"python, pandas",user3139545
+48109011,2018-01-05 07:25:53,1,641,How to get the percentage of each value in a row basis row total in python,2,"python, pandas",Shuvayan Das
+48109266,2018-01-05 07:45:00,1,51,Conditionally filling values in Pandas Dataframe,1,"python, pandas, dataframe",RiskTech
+48109418,2018-01-05 07:57:53,2,835,Sankey diagram in Plotly not showing any graph,1,"python, pandas, plotly",user3139545
+48109520,2018-01-05 08:07:37,2,134,Add a flag indicating that a column has changed for each group in pandas,1,"python, pandas",Keiku
+48109624,2018-01-05 08:15:42,2,134,Python pandas - how to group close elements,1,"python, algorithm, pandas, group-by",Binyamin Even
+48109936,2018-01-05 08:37:19,2,399,Convert column of a pandas dataframe from string to list type,0,"python, pandas",Nayana Madhu
+48110421,2018-01-05 09:14:08,3,574,Slice a Pandas dataframe with DatetimeIndex based on time interval,1,"pandas, datetime, dataframe, slice",Swedish Mike
+48111231,2018-01-05 10:04:07,0,34,Python 2.7 Subset a groupby dataframe based on another groupby,1,"python, pandas",doyz
+48111324,2018-01-05 10:10:04,1,241,Pandas: apply operation with generated list is not callable,2,"python, pandas",Jasper
+48111404,2018-01-05 10:14:23,2,27,Pandas groupby column1 apply max on column2 and corresponding value of column3 in result,0,"python, pandas, dataframe, pandas-groupby",el323
+48111638,2018-01-05 10:27:40,1,295,python deprecated pd.convert_objects(convert_numeric=True) works the alternative one malfunctions,1,"python, pandas, dataframe",Marx Babu
+48111656,2018-01-05 10:28:30,0,18,how to make R datafile to Python type,1,"pandas, dataframe, rpy2",김경환
+48111657,2018-01-05 10:28:37,2,30,Slicing a dataframe on column names or alternative column name if they are not available,1,"python, pandas, dataframe, slice",ThatQuantDude
+48111790,2018-01-05 10:36:47,1,185,"Read "".db"" dictionary type file into pandas DataFrame",2,"python, pandas, dataframe, import",WBM
+48112468,2018-01-05 11:15:20,0,48,How to replace text corpus using a matching word from dictionary using Regex,0,"python, regex, pandas",Snehal pankaj
+48113872,2018-01-05 12:42:13,-2,67,numpy.where does not work properly with pandas dataframe,1,"python, pandas, numpy, jupyter-notebook",Jyotirmay
+48114054,2018-01-05 12:52:16,0,1868,How to remove outliers correctly and define predictors for linear model?,2,"python, pandas, numpy, scikit-learn",krakowi
+48114587,2018-01-05 13:26:57,1,67,Downsampling from 1 month to multiple months in Pandas,1,"python, pandas, time-series",Jacques Thibodeau
+48115308,2018-01-05 14:10:32,1,217,Converting pandas dataframe to json is slow,1,"python, json, django, pandas",schmoozed
+48115310,2018-01-05 14:10:37,1,740,calculate average value from pandas dataframe,1,"python, pandas, dataframe",bikuser
+48115481,2018-01-05 14:22:06,3,980,"pandas, combine rows based on certain column values and NAN",4,"python, pandas",Mohammad Athar
+48115563,2018-01-05 14:26:22,2,30,Formatting datetime stamp,1,"python, pandas, dataframe, timestamp",may
+48115573,2018-01-05 14:26:47,-3,407,Can't create a pandas series from numpy array?,2,"python, pandas",Yang 
+48115646,2018-01-05 14:30:52,1,28,Dataframe Joining Columns based on date within a dataframe,2,"python, pandas, dataframe",J Ng
+48115731,2018-01-05 14:35:26,0,40,How to compare names with and without orthographic accent in pandas?,1,"python, pandas, spelling",Reinaldo Chaves
+48115885,2018-01-05 14:46:16,0,39,XLS save a DataFrame according to user request,1,"python, pandas, save, xls, indirect-objects",Fabio Pomi
+48115990,2018-01-05 14:52:25,0,82,Data transformation in Python. Is there a better way?,1,"python, python-3.x, pandas, numpy",durjoy
+48116015,2018-01-05 14:54:12,1,93,"Remove rows from pandas DataFrame if multiple columns contain the same data, but interchanged",1,"python, pandas, dataframe, duplicates",ERS
+48116509,2018-01-05 15:22:55,0,53,Capturing multiple groups in a regex does not return any result,2,"python, regex, pandas, text-mining",Hackerds
+48116664,2018-01-05 15:31:32,0,37,How to group thousands of dates and Id's into columns in Pandas for machine learning?,0,"pandas, pandas-groupby",user3617574
+48117446,2018-01-05 16:20:48,0,38,Merging two data frames on rows in python,2,"python, pandas",lmccann
+48117592,2018-01-05 16:30:05,1,87,How to remove outline of marker/change marker style when using plot.scatter in pandas,1,"python, pandas",famargar
+48117832,2018-01-05 16:46:08,1,56,delete rows by duplicate indexes,2,"python, pandas, dataframe",djj
+48118371,2018-01-05 17:21:38,0,16,Merging multiple columns with dates in a single dataframe,1,"pandas, dataframe",J Ng
+48118537,2018-01-05 17:33:44,0,193,Python PANDAS: GroupBy First Transform Create Indicator,1,"python, pandas, numpy, pandas-groupby",Pylander
+48118640,2018-01-05 17:39:51,1,387,creating TFrecord file for multiple objects,1,"python-3.x, pandas, tensorflow, object-detection, object-detection-api",Ajinkya Bobade
+48118664,2018-01-05 17:41:45,0,49,Python loop seems valid but still get ValueError: Not enough values to unpack,1,"python, pandas, loops, dataframe",DH_III
+48118758,2018-01-05 17:48:12,1,25,Pandas - Writing a Change Log Between Multiple Dataframes,0,"python-3.x, pandas, numpy, logging",Tyler Russell
+48118920,2018-01-05 17:59:27,0,26,Combine two pandas dataframes of dictionaries,1,"python, pandas, dictionary",Andrew Heusser
+48118921,2018-01-05 17:59:32,1,52,How do I read a XLSX if the filepath or filename has an apostrophe?,1,"python, pandas, validation",dre
+48119015,2018-01-05 18:06:08,1,163,pandas pivot table with multiple information in cells,1,"python, excel, pandas, pivot-table",nomore
+48119212,2018-01-05 18:21:39,2,217,How to one hot encode a variable with 3k categories without a MemoryError,0,"python, pandas, deep-learning, one-hot-encoding",Patthebug
+48119592,2018-01-05 18:50:21,2,80,Python Pandas Dropping First in Series of Duplicates,4,"python, pandas",Windstorm1981
+48120214,2018-01-05 19:37:46,1,32,pandas - ignore rows or columns filled of 0,2,"python, pandas, dataframe",Micawber
+48120611,2018-01-05 20:10:59,1,1709,Python Pandas filtering; TypeError: cannot convert the series to <class 'int'>,1,"python, python-3.x, pandas, dataframe",Terjeja
+48121396,2018-01-05 21:15:25,0,101,Pandas Subset of a Time Series Without Resampling,3,"python, pandas",Windstorm1981
+48121950,2018-01-05 22:06:30,0,229,Boolean Logic Inside Pandas Query Statement,2,"python, python-3.x, pandas, numpy, scikit-learn",HMLDude
+48122105,2018-01-05 22:21:43,0,25,Combine Multiple Pandas DataFrames Via Index,0,"python, pandas, data-analysis",Roughrider
+48122131,2018-01-05 22:23:53,0,52,Importing from SQL into pandas dataframe directly as number instead of object using psycopg2,1,"python, pandas, psycopg2",Danny W
+48122276,2018-01-05 22:38:07,2,38,Changing values in a dataframe based on condition,4,"python, pandas, dataframe",Venkatesh Malhotra
+48122394,2018-01-05 22:49:04,1,334,Pandas/Python How to switch Index/Columns in dataframe while retaining df structure?,1,"python, python-3.x, pandas, dataframe",Kimmy
+48122904,2018-01-05 23:57:21,0,26,Get group percentages in pandas dataframe,1,"python, pandas",user3139545
+48123368,2018-01-06 01:14:27,1,2013,Pandas error when using if-else to create new column: The truth value of a Series is ambiguous,3,"python, pandas",stackoverflowuser2010
+48124149,2018-01-06 04:05:56,-1,49,Remove string from a dataframe based on multiple conditions,1,"python, regex, pandas",Rahul rajan
+48124350,2018-01-06 04:45:59,0,98,Countdown Column in Dataframe,1,"pandas, dataframe",J Ng
+48124639,2018-01-06 05:42:23,0,526,Pandas DataFrame Date Series to List conversion,2,"python, pandas",AngiSen
+48124946,2018-01-06 06:40:51,1,448,Replace nan values with the unique date (date in numpy array.),1,"python, pandas, datetime, dataframe",Dheeraj
+48124984,2018-01-06 06:45:53,2,105,How to update the same excel sheet with different dataframe without overwriting the previous data present in excel file using python2.7.14?,1,"python, excel, pandas, dataframe",
+48125288,2018-01-06 07:40:09,2,40,Pythonic way for do math among columns within a MultiIndex dataframe and concat the result as a seperate column in original dataframe,1,"python, pandas, dataframe",Tian Yan
+48125438,2018-01-06 08:05:32,1,1415,"pandas - Why am I unable to skip rows using the ""skiprows"" parameter of Pandas",2,"python, pandas",Archan Joshi
+48125501,2018-01-06 08:13:26,0,42,Fill new column with value where column matches another column,1,"python, pandas, dataframe",Danny W
+48125808,2018-01-06 09:03:34,1,41,Assign Value in builtin function,2,"python, python-3.x, pandas, built-in",
+48126330,2018-01-06 10:14:07,2,2919,Python int too large to convert to C long - plotting pandas dates,3,"python, python-3.x, pandas, matplotlib, windows-10",Jetman
+48126766,2018-01-06 11:15:33,1,218,Pandas groupby selecting only one value based on 2 groups and converting rest to 0,3,"python, pandas, pandas-groupby",MysterioProgrammer91
+48127096,2018-01-06 11:54:35,1,40,GroupBY frequency counts JSON response - nested field,1,"python, json, python-3.x, pandas, pandas-groupby",Stuart Kirkup
+48127217,2018-01-06 12:13:48,-2,84,How to reserve at least 3 digits for a float number,1,"python, python-2.7, pandas, numpy",Han Zhengzu
+48127273,2018-01-06 12:21:05,2,63,How to count recurring identical values in a Pandas Series,1,"python, pandas, series",Ale
+48128371,2018-01-06 14:32:30,0,20,Remove rows with values repeated on specific columns,0,"python, pandas, duplicates",Juan R.
+48128399,2018-01-06 14:35:41,0,348,Python pandas plotting Quarter values,1,"python, pandas, plot",Sanito Machiavelli
+48128621,2018-01-06 15:04:27,0,634,Check and install 'win32com.client' module at time of execution in Python?,1,"python, pandas, win32com",Code_Sipra
+48129186,2018-01-06 16:06:14,1,120,set pandas plot config default,0,"python, pandas",Hardian Lawi
+48129251,2018-01-06 16:15:11,1,2687,Pandas dataframe datetime to time then to seconds,2,"python, python-3.x, pandas, datetime, python-datetime",koger23
+48129713,2018-01-06 17:03:19,12,712,Fastest way to find all unique elements in an array with Cython,1,"pandas, numpy, cython",Ted Petrou
+48129817,2018-01-06 17:14:44,0,555,how to apply lambda functions to specific rows meeting a condition in PANDAS,1,"pandas, lambda",desmond
+48130218,2018-01-06 17:57:43,2,56,"Joining two different size dataframes, but only want one new column added",2,"python, pandas, dataframe, merge",Danny W
+48130703,2018-01-06 18:51:04,2,433,Pandas selection by MultiIndex,2,"python, pandas, dataframe, multi-index",Ranny
+48131527,2018-01-06 20:20:26,1,1728,dropping column using pandas-drop()-function not working,1,"python, pandas, dataframe",steady_progress
+48131804,2018-01-06 20:53:32,2,26,consolidate duplicate columns in dataframe,1,"python, pandas, dataframe",J Westwood
+48131816,2018-01-06 20:54:26,1,295,"Given a start and end date, most efficient way to generate all weeks in between?",3,"python, pandas, pyspark",kodachrome
+48132038,2018-01-06 21:23:55,0,38,Pandas split on character and remove trailing values,4,"python, pandas",hhh_
+48132155,2018-01-06 21:36:55,1,525,How can I change the x-axis index date format in matplotlib?,1,"python, pandas, matplotlib, plot",
+48132205,2018-01-06 21:42:55,1,26,Identify rows in 2nd dataframe having values less than the first,2,"python, pandas, dataframe",rajeev
+48132290,2018-01-06 21:54:46,0,28,enhance code running timing in python,0,"python, excel, pandas, time",Taqwa Hadidi
+48132847,2018-01-06 23:18:15,2,32,Formatting DataFrame in Pandas - stacking columns,3,"python, python-3.x, pandas, dataframe",George Mathias
+48133129,2018-01-07 00:01:25,1,719,Cosine similarity of rows in pandas DataFrame,1,"python, pandas, dataframe, cosine-similarity",PAstudilloE
+48133834,2018-01-07 02:34:20,0,297,pandas str.replace value of a column from another column,1,pandas,Art Yudin
+48133914,2018-01-07 02:49:17,0,1056,pandas ValueError: could not convert string to float: 'p-',1,"python, pandas, geography",Earthly
+48133983,2018-01-07 03:05:37,0,676,Sum a range of cells in a single column in pandas dataframe,2,"python, pandas, sum",J Westwood
+48134313,2018-01-07 04:29:24,1,97,Create a column of counts in a pandas dataframe,2,"pandas, pandas-groupby",Mathijs de Jong
+48134788,2018-01-07 06:13:08,1,118,binary operation between rows in DataFrame,1,"python, pandas, dataframe",Tian Yan
+48135015,2018-01-07 06:55:11,0,57,Memory overflow when loading multiple files sequentially in python,0,"python, pandas, memory, merge",Hossein
+48135562,2018-01-07 08:31:17,0,893,convert xml to pandas data framework,1,"python, xml, pandas, nlp, nltk",Sampath Rajapaksha
+48135569,2018-01-07 08:32:13,1,926,Padding with Leading zeros for Pandas data frame column with data as numpy array,1,"python, pandas",JDoe
+48135730,2018-01-07 08:59:27,3,578,Slice a Dataframe Index per year - Python - Pandas,2,"python-3.x, pandas, dataframe",RiskTech
+48135848,2018-01-07 09:21:12,1,36,Getting Error while writing a Large datarame of 60K rows into csv in Pandas,1,"python, pandas, dataframe, scikit-learn",Rahul rajan
+48135994,2018-01-07 09:47:27,2,862,Doing the opposite of pivot in pandas Python,1,"python, python-3.x, pandas",GlenCloncurry
+48136450,2018-01-07 10:57:38,-1,95,multiindex columns sum in pivot pandas,1,"python, pandas",mahesh
+48136641,2018-01-07 11:27:02,1,72,Subset missing values from list into new dataframe in Python 3.x,1,"python, pandas, dataframe, subset",Code_Sipra
+48137162,2018-01-07 12:37:26,3,60,Pandas - Merge two dataframes and unify set of columns,2,"python, pandas",bluesummers
+48137324,2018-01-07 12:58:39,0,127,Pandas randomly select n groups from a larger dataset,1,"python, pandas",komodovaran_
+48137729,2018-01-07 13:46:07,1,357,pandas - How to extract a value(s) from a list stored in rows of a dataframe,1,"python, python-3.x, pandas",Archan Joshi
+48138255,2018-01-07 14:43:20,0,19,how to change dataframe column in pandas?,0,"python-3.x, pandas",user3222101
+48138491,2018-01-07 15:13:19,1,36,Generate a row with values = values of previous row + variation,5,"python, pandas",François M.
+48139112,2018-01-07 16:20:21,1,54,Floating point comparison not working on pandas groupby output,1,"python, pandas, floating-point, pandas-groupby",Arif Akhtar
+48139821,2018-01-07 17:37:30,0,34,calculating the average frequency of a given value in pandas,1,"pandas, frequency",Krzysztof Musialik
+48139899,2018-01-07 17:45:19,6,2359,"Correlation matrix plot with coefficients on one side, scatterplots on another, and distributions on diagonal",2,"python, pandas",Max Ghenis
+48141242,2018-01-07 20:29:39,0,44,Group data frames according to a dictionary,2,"python, pandas, dictionary",aviss
+48141933,2018-01-07 21:58:49,0,358,How to access csv file in the root folder of the Google Colaboratory?,1,"python, pandas, google-colaboratory",Amin Ghaderi
+48142171,2018-01-07 22:31:56,2,276,Combine multiple regex expressions in pandas.DataFrame.str.replace?,1,"python, regex, string, pandas",Pranshu
+48142528,2018-01-07 23:30:15,1,62,Upsampling int series within groups for a Pandas DataFrame,1,"python, pandas, resampling",Silas
+48142757,2018-01-08 00:06:40,0,504,Replace column values within a groupby and condition,1,"python, pandas, dataframe, group-by, pandas-groupby",Stefano Potter
+48143307,2018-01-08 01:49:20,1,50,Filtering by datetime confusion,1,"python, pandas, datetime, dataframe",Danny W
+48143712,2018-01-08 02:58:30,0,212,Python Pandas DataFrame: Rename all Column Names via Map,0,"python, pandas, dataframe",
+48143727,2018-01-08 03:00:35,0,50,Worker assignment for a product servicing or Return back the repaired product,0,"python, mysql, pandas, numpy",Sam Joe
+48144466,2018-01-08 05:02:52,2,43,How to get count of number of columns where the value is not zero row-wise in a pandas dataframe,1,"python, pandas, count",Shuvayan Das
+48144831,2018-01-08 05:47:12,0,219,How to Dynamically bin data in Pandas,1,"python, python-3.x, pandas, binning",Rahul rajan
+48145027,2018-01-08 06:08:43,2,74,Pandas Set Data Type While Combining Files,4,"python, pandas",lovechillcool
+48147487,2018-01-08 09:33:36,2,33,"How to use the condition with other rows (previous moments in time series data), in pandas, python3",1,"python-3.x, pandas, condition",aura
+48147815,2018-01-08 09:54:15,0,44,Using python list to read in pandas CSV file,1,"python, pandas",Vishal
+48148328,2018-01-08 10:25:06,3,303,Error in slicing pandas DataFrame based on Missing column names,1,"python, pandas, dataframe, reindex",Mohammad ElNesr
+48148883,2018-01-08 10:58:21,0,171,Effective Spread Calculation in bond market by python,0,"python, pandas, financial",ary
+48149189,2018-01-08 11:16:14,2,59,Split a string within a pandas DataFrame element and recombine a section of the list,2,"python, pandas, dataframe",BillyJo_rambler
+48149306,2018-01-08 11:23:28,1,25,Pandas how to locate by category from aggregate?,1,"python, pandas",komodovaran_
+48150346,2018-01-08 12:30:38,0,526,How to partition pandas data frame based on week and save as CSV?,2,"python, pandas, dataframe",User1
+48150555,2018-01-08 12:42:01,2,106,Unexpected Pandas/Arrow behaviour using series.apply,3,"python, pandas, datetime",seanysull
+48151066,2018-01-08 13:14:06,1,70,How to add rows with the average values of selected rows into a data frame,2,"python, pandas, pandas-groupby",Cave
+48151375,2018-01-08 13:31:59,0,131,Resample for different Time Series,1,"python, pandas",Gemini
+48151423,2018-01-08 13:35:01,0,230,Getting key error in python,1,"python, pandas",hammer
+48151629,2018-01-08 13:47:34,0,849,Plotting pandas multi-index DataFrame with one index as Y-axis and other as X-axis,1,"python, pandas, matplotlib, plot, multi-index",Mohammad ElNesr
+48152309,2018-01-08 14:27:02,1,596,Pandas Group by three columns but retain all other columns,2,"python, pandas, dataframe",Kishan
+48152324,2018-01-08 14:27:50,0,79,Filter data frame with several columns to unique id,2,"pandas, dataframe, filter",Thabra
+48152584,2018-01-08 14:44:11,3,176,How to filter a dataframe of dates and hours by a list of dates?,1,"python, pandas, dataframe, filter, datetimeindex",Izaskun
+48152899,2018-01-08 15:03:51,0,586,Write 'Function output ' into a nice Pandas dataframe,2,"python, python-2.7, pandas, dataframe, beautifulsoup",Lizou
+48153267,2018-01-08 15:26:29,2,83,Mean of every 3 columns pandas,1,"python, pandas",Elias Uhalde
+48153477,2018-01-08 15:38:48,1,146,Encoding data into utf-8 prior to using pandas.read_csv?,0,"python, pandas, encode",DGav
+48153689,2018-01-08 15:50:30,1,73,Creating a function to turn a SQL query into Pandas df,1,"python, sql, python-3.x, pandas",LMGagne
+48154172,2018-01-08 16:21:50,2,5549,Python: Write Pandas Dataframe to MSSQL --> Database Error,1,"python, sql-server, database, pandas, dataframe",PineNuts0
+48154573,2018-01-08 16:46:08,1,305,Append pyodbc.Rows into a data frame using a loop,2,"python, sql, pandas, pyodbc",Campo21
+48155048,2018-01-08 17:20:17,1,55,Calculate diffrence between two dates,1,"python, pandas, datetime, difference",jjgasse
+48155217,2018-01-08 17:31:06,1,73,"How to split one column into multiple columns, based on similar values",1,"python, pandas, matplotlib, seaborn",Adam Schroeder
+48155564,2018-01-08 17:53:22,0,289,How to resample yearly starting from 1st of June to 31st may?,1,"python, pandas, time-series",T Denager
+48155787,2018-01-08 18:08:59,2,321,"How to combine year, month, and day columns to single datetime column?",3,"python, pandas, date, datetime, timestamp",FaCoffee
+48156043,2018-01-08 18:27:43,0,260,Pandas create column from another dataframe if certain conditions match,1,"python, pandas",scarecrow
+48156059,2018-01-08 18:28:56,3,235,"Finding duplicate rows in Pandas, where order of column values don't matter",2,"python, pandas, numpy",Moondra
+48156092,2018-01-08 18:31:41,0,290,Pandas drop method does not work.,1,"python, pandas, dataframe, data-science",Stefan Mehren
+48156213,2018-01-08 18:38:44,1,180,SQL Server to Excel to Python - pd.read_excel(),2,"python, sql, sql-server, pandas",Che
+48156752,2018-01-08 19:17:57,1,71,Pandas Erratic Sorting by DateTime column,0,"python, pandas, sorting, datetime",Frank Drin
+48157422,2018-01-08 20:13:16,0,29,Create new columns and fill values base on a structured text column,0,"python, pandas, dataframe",wingsoficarus116
+48157807,2018-01-08 20:45:43,0,31,How to get consistent return type from pandas indexers?,1,"python, pandas",user48956
+48158101,2018-01-08 21:10:11,0,375,Write Dataframe to Specific Excel Row,0,"python, excel, pandas",AlliDeacon
+48158167,2018-01-08 21:15:23,0,31,How do I groupby a dynamic list of column names?,1,"python, pandas",Michael Melillo
+48158615,2018-01-08 21:54:26,0,94,How to reshape DataFrame for nested JSON output,1,"python, pandas, dataframe",Roger Almeida Leite
+48158688,2018-01-08 22:01:13,1,2532,Save Pandas describe for human readibility,1,"python, pandas",
+48158708,2018-01-08 22:03:24,1,23,Python: dataframe.get() with multi-index,1,"python, pandas",Blake
+48158984,2018-01-08 22:33:10,3,249,Using df.query on MultiIndex gives UndefinedVariableError,1,"python, pandas, dataframe, multi-index",Wen-Ben
+48159114,2018-01-08 22:45:47,0,78,How to keep rows by string in .gff file in python,0,"python, pandas, dataframe, split",Jiayu Zhang
+48159340,2018-01-08 23:09:22,1,416,Pandas Concatenate Values From Different Rows,2,"python, pandas, concatenation",Dance Party2
+48159341,2018-01-08 23:09:27,4,45,What's up with the magic rows when accessing float indexes in Pandas?,1,"python, pandas",user48956
+48159707,2018-01-08 23:54:38,0,382,Pandas add column based on grouped by rolling average,1,"pandas, dataframe, group-by",Danny W
+48159755,2018-01-09 00:02:56,0,755,K-fold cross validation to python pandas dataframe - NLTK classification,0,"python, pandas, nlp, nltk, cross-validation",Sampath Rajapaksha
+48159775,2018-01-09 00:05:53,1,106,Merge 2 SparseDataFrame with same index/columns,1,"python-3.x, pandas",alfredopacino
+48160197,2018-01-09 01:11:29,0,64,Adding a column from the original data frame to a groupby data frame?,2,"python, pandas, pandas-groupby",Alex Kinman
+48160696,2018-01-09 02:33:50,-1,52,Geo-coding - SyntaxError: can't assign to literal,1,"python, pandas, dataframe, literals",Jerry
+48161024,2018-01-09 03:27:54,0,41,Fast pandas Timeseries event based time range calculations,1,"python, pandas, datetime, time-series",sriramn
+48161421,2018-01-09 04:24:39,0,88,How to add attribute to the highest degree centrality node using Python?,0,"python, pandas, networkx",user2277675
+48161445,2018-01-09 04:28:47,12,555,Changing the fill_values in a SparseDataFrame - replace throws TypeError,2,"python, pandas, sparse-matrix, sparse-dataframe",coldspeed
+48161758,2018-01-09 05:09:14,0,34,Rounding up 5-min data to a complicated hourly basis,1,"python, pandas, datetime",Satyajit Pattnaik
+48162201,2018-01-09 05:57:30,1,1458,Pandas Number of Unique Values and sort by the number of unique,1,"python-3.x, pandas",GlenCloncurry
+48164751,2018-01-09 09:13:59,2,170,SQL analogue of Pandas diff() function (1st discrete difference) [LAG function],2,"python, sql, oracle, pandas, difference",Marjan Moderc
+48165190,2018-01-09 09:38:32,0,446,Deleting a rows with invalid date in pandas column,1,"python, regex, python-3.x, pandas",AkshayNevrekar
+48165212,2018-01-09 09:39:35,-1,1209,Rolling Correlation Calculation with Pandas or NumPy,1,"python, pandas, numpy",GSta
+48165710,2018-01-09 10:05:17,1,34,Creating a new columns for every value in a row,1,"python, pandas, loops",Ian_De_Oliveira
+48166014,2018-01-09 10:22:25,5,219,Pandas find Duplicates in cross values,3,"python, pandas, duplicates",maxtenzin
+48166581,2018-01-09 10:54:32,1,43,Filtering Pandas Dataframe according to indices,3,"python, pandas, dataframe, filter, locate",oakca
+48166692,2018-01-09 11:00:17,0,45,Create sparse Series of time differences,2,"python, pandas, timedelta",00__00__00
+48166840,2018-01-09 11:08:13,2,119,Passing List to a pandas series as index,1,"python, pandas, dataframe, pandas-groupby",el323
+48166900,2018-01-09 11:10:51,1,35,How to 'pivot' a dataframe's values into columns,2,"python, pandas, dataframe, data-analysis, data-science",Htet Aung
+48167165,2018-01-09 11:26:51,0,214,rolling_window or rolling_apply in pandas 0.20.3,2,"python, pandas",Make42
+48168209,2018-01-09 12:25:51,3,108,Odd behaviour when applying `Pandas.Timedelta.total_seconds`,1,"python, pandas, datetime, timedelta",seanysull
+48168292,2018-01-09 12:31:13,0,119,Merge two dataframes based on interval overlap,1,"python, pandas, intervals",Pau RS
+48169141,2018-01-09 13:20:55,2,707,Apply a function on all possible combination of columns in a dataframe in Python -- Better way,1,"python, pandas, dataframe",RiskTech
+48169209,2018-01-09 13:24:32,1,1954,ValueError: No axis named 'inp' for object type <class 'pandas.core.frame.DataFrame'>,1,"pandas, pandas-groupby",Bode 
+48169591,2018-01-09 13:46:40,0,42,Cannot see the bottom part of html page in Django,0,"python, django, pandas",Katsuya Obara
+48170028,2018-01-09 14:10:03,2,31,Convert and replace '%Y%m%d%H%M' to a datetime in a dictionary of dataframes,1,"python-3.x, pandas, datetime, dictionary, dataframe",Amy21
+48170683,2018-01-09 14:46:25,1,46,Get start and stop of time period in pandas,1,"python, python-3.x, pandas",pawelty
+48170759,2018-01-09 14:50:10,0,512,python - concatenate two time series with different time stamps,1,"python, pandas, time, concatenation",user155214
+48170811,2018-01-09 14:52:36,1,42,Pandas: Parsing with two conditions issue,2,"python, pandas, conditional",spiral01
+48170867,2018-01-09 14:54:59,5,1704,How to get the common index of two pandas dataframes?,7,"python, pandas, dataframe",astudentofmaths
+48170954,2018-01-09 14:59:20,-1,605,Return first column in DataFrame as a list of string values,1,"python, pandas, dataframe",Peter
+48171256,2018-01-09 15:15:36,1,1202,Pandas: replace Nan with values from one of two columns,1,"python, pandas, dataframe, nan",FaCoffee
+48171611,2018-01-09 15:33:24,4,3202,difference between pandas read sql query and read sql table,1,"python, sql, pandas, dataframe, sqlite3",Oussama Jabri
+48171666,2018-01-09 15:36:24,1,63,Python - Sort a Pandas Dataframe twice,1,"python, pandas, sorting",Salva Tdl
+48172146,2018-01-09 16:01:45,0,123,Pandas: How to combine suffixed columns after a merge?,1,"pandas, pandas-groupby",Nathan Wailes
+48172428,2018-01-09 16:17:53,1,68,Iterating over df to create nested dict in python,1,"python, pandas",cdc200
+48172438,2018-01-09 16:18:25,0,27,How to output differences between grouped columns in pandas?,1,"python, pandas, dataframe",Hana
+48172529,2018-01-09 16:23:57,2,62,Dummify variables based on list of categories,4,"python, pandas",Mio
+48172863,2018-01-09 16:43:23,0,641,save multiple pd.DataFrames with hierarchy to hdf5,2,"python, pandas, numpy, hdf5, h5py",mm441
+48173470,2018-01-09 17:16:38,2,130,How to implement a dyadic product in a pandaic way,2,"python, pandas, numpy, matrix-multiplication",Quickbeam2k1
+48173975,2018-01-09 17:48:51,0,1026,Plot Multiple DataFrames into one single plot,2,"python, pandas, matplotlib",Adhy Satya
+48173980,2018-01-09 17:49:10,30,1761,Pandas: Knowing when an operation affects the original dataframe,3,"python, pandas, views, chained-assignment",ejolly
+48173986,2018-01-09 17:49:27,2,231,Matplotlib not plotting sorted dataset in correct order,1,"python-3.x, pandas, matplotlib",user2067030
+48174398,2018-01-09 18:17:37,4,383,New Dataframe column as a generic function of other rows (pandas),2,"python, pandas, dataframe, vectorization",pault
+48175172,2018-01-09 19:13:41,0,602,Assign a pandas series to a groupby operation,1,"python, pandas, numpy, dataframe, group-by",sgokhales
+48175179,2018-01-09 19:14:03,0,78,Pandas DataFrame indexing out of order,1,"python, pandas, sorting, datetime, indexing",P. Faske
+48175334,2018-01-09 19:26:00,1,51,Replacing values based on conditional using pandas,2,"python, python-2.7, pandas",sato
+48175666,2018-01-09 19:48:28,0,113,Loop every row from a pandas data frame to a url using urllib and return XML results in a same file,0,"python, pandas, loops, url",Ian_De_Oliveira
+48175842,2018-01-09 20:01:55,1,36,Pandas: function that uses multiple columns,1,"python, pandas",Craig
+48175892,2018-01-09 20:05:31,0,57,Extract dataframe column values as standalone columns,2,"python, pandas, dataframe, pivot, pivot-table",Ali
+48176411,2018-01-09 20:47:08,0,57,Optimize script to flatten json output from API,0,"python, json, python-3.x, pandas, python-requests",user8834780
+48176462,2018-01-09 20:51:12,0,45,Python - Pandas - Graph vs dict? (Networkx),1,"python, pandas, graph, networkx",krishna chaitanya
+48176824,2018-01-09 21:20:49,3,813,convert multiple columns to datetime without the date in pandas,2,"python, pandas, datetime",sacuL
+48176993,2018-01-09 21:35:24,0,917,How to convert a dataframe into a 2D array in-order to run some calculations?,2,"python, pandas, numpy",symbolix
+48177174,2018-01-09 21:51:33,0,57,Merge tables together without column headers? Python pandas,0,"python, excel, pandas, for-loop",Michael Martinez
+48177371,2018-01-09 22:09:22,2,84,How to change column values in dataframe in python?,2,"python, pandas, numpy, dataframe",Jiayu Zhang
+48177573,2018-01-09 22:29:08,1,777,"Pandas convert object column to str - column contains unicode, float etc",1,"python-2.7, pandas, utf-8",Null-Hypothesis
+48177658,2018-01-09 22:37:05,0,565,Python & MSSQL: Python Code to Delete All Rows of Data in MSSQL Table,1,"python, sql-server, pandas, dataframe",PineNuts0
+48177746,2018-01-09 22:46:00,0,32,Create pandas dataframe joining dataframes taken from original one and ploting the result,2,"python, pandas, dataframe, matplotlib, plot",Cedric Zoppolo
+48177914,2018-01-09 23:01:08,3,771,Why use pandas.assign rather than simply initialize new column?,1,"python, pandas",sacuL
+48177934,2018-01-09 23:03:04,1,353,Flatten or unpack list of nested dicts in DataFrame,2,"python, json, pandas, dataframe, nested",user1964692
+48178450,2018-01-10 00:01:19,0,12,how to get all the element within a pandas column multiplied together?,0,"python, pandas, multiplying",Rui Luo
+48178475,2018-01-10 00:04:09,0,194,"Reading values from a csv, then putting them in a string using python",1,"python, pandas, google-maps, csv, folium",lengthy_preamble
+48179028,2018-01-10 01:25:31,1,39,Pandas distribute time series data,2,"python, pandas",AJG519
+48179112,2018-01-10 01:37:39,0,21,date changes based on dataframe,0,"python, pandas",Adam
+48179448,2018-01-10 02:30:01,2,171,How to count occurrences of consecutive 1s by column and take mean by block,4,"python, pandas",zsljulius
+48179687,2018-01-10 03:04:01,0,5,Seaborn: Passing column name as Label in a function,0,"python, pandas, seaborn",Hackerds
+48179906,2018-01-10 03:33:15,0,125,Reshaping data in CSV to multiple columns,2,"python, pandas, csv, reshape",Saf
+48179932,2018-01-10 03:37:16,-1,1352,How to specify not full path for pandas.read_csv()?,2,"python, python-3.x, pandas, traceback",MRI
+48180087,2018-01-10 03:58:08,1,44,Using more than one argument to 'apply' in Pandas dataframe,2,"python, pandas",reservoirinvest
+48180206,2018-01-10 04:14:08,1,88,Assigning a column to a SparseDataFrame,0,"python, pandas, sparse-matrix, sparse-dataframe",coldspeed
+48180685,2018-01-10 05:12:56,1,793,changing all dates to standard date time in dataframe,1,"python, pandas, date",Adam
+48180935,2018-01-10 05:37:52,-3,358,Is there any way to insert pandas dataframe to cassandra db?,1,"python, pandas, cassandra, pyspark",Nayana Madhu
+48182882,2018-01-10 08:10:22,2,114,Mathematica's GatherBy function using Pandas groupby,2,"python, pandas, dataframe, group-by, pandas-groupby",Harry
+48182939,2018-01-10 08:14:03,1,59,Pandas Dataframe - How to stack two column values into one list?,1,"python, pandas, stack, melt",kitchenprinzessin
+48183635,2018-01-10 08:59:17,0,2559,Apply Function or Lambda to Pandas GROUPBY,1,"python, pandas, lambda, statsmodels, pandas-groupby",Kyle
+48183643,2018-01-10 09:00:00,0,313,"python read excel data, filling missing values using pandas",1,"python, excel, python-3.x, python-2.7, pandas",vinod bhandary
+48184332,2018-01-10 09:38:49,3,219,Problems assigning color to bars in Pandas v0.20 and matplotlib,2,"python, pandas, matplotlib, plot",José
+48184524,2018-01-10 09:49:56,3,42,Merge duplicated pandas rows on specific rules,2,"python, pandas, pandas-groupby",Michael Dorner
+48184930,2018-01-10 10:10:15,0,53,Subplot a dataframe according to a column's values,0,"python, pandas, dataframe, matplotlib",Amy21
+48185030,2018-01-10 10:15:01,1,172,Unpack DataFrame with tuple entries into separate DataFrames,1,"python, pandas, iterable-unpacking",lucianopaz
+48185318,2018-01-10 10:30:24,1,277,Pandas DataFrame value_counts dict of dicts,1,"python, pandas, dictionary-comprehension",Austin
+48186074,2018-01-10 11:08:58,1,141,Renaming MultiIndex columns is not working,1,"python, pandas, dataframe, rename, multi-index",displayname
+48186504,2018-01-10 11:31:40,0,452,Create file OLS in Python Statsmodels,1,"python, pandas",user9184557
+48186624,2018-01-10 11:38:58,3,656,Pandas Rolling window Spearman correlation,1,"python, pandas, correlation, rolling",GSta
+48187280,2018-01-10 12:14:40,2,182,Scatter plot with colormap makes X-axis disappear,1,"python, pandas, matplotlib",Eran
+48187627,2018-01-10 12:35:43,1,351,Python Loop with auto creation of data frames,2,"python, pandas, python-requests",Giladbi
+48187664,2018-01-10 12:38:10,2,61,Pandas .copy() Space/Time Complexity,1,"python, pandas",Tom Cusack
+48187724,2018-01-10 12:41:26,0,48,How do access and store a Pandas attribute spread across same named multiple columns as Numpy matrix for all rows and columns?,1,"python, pandas",Ishwar
+48188547,2018-01-10 13:28:36,-2,45,Python dataset aggregation,1,"python, pandas, aggregation",Sheron
+48188716,2018-01-10 13:39:08,1,49,groupby apply operation of all the other keys,3,"python, pandas, group-by",Donbeo
+48189531,2018-01-10 14:24:11,0,19,using letters from for loop to call attributes,2,"python-3.x, pandas",osteocyt
+48189688,2018-01-10 14:32:36,2,567,"Pandas, skip empty columns in xslx",2,"python, excel, pandas",Rasmus Bidstrup
+48189698,2018-01-10 14:33:04,4,76,dataframe reshaping with new added columns,1,"python, pandas",Yogi
+48248634,2018-01-14 10:26:17,2,701,Python Pycharm: Describe Dataframe not Shown,1,"python, pandas, pycharm",
+48270609,2018-01-15 21:02:15,0,100,Python Pandas: How to Insert one Missing Row?,2,"python, pandas, dataframe, pandas-groupby",
+48422269,2018-01-24 12:15:58,1,88,"How to drop 2 or more columns based on column name, type and statistics such as std in Python?",1,"python, pandas, sklearn-pandas",
+48423601,2018-01-24 13:25:37,0,32,outer Joining 2 dataframes with unequal datetime indexes in Python,1,"python, pandas, datetime",
+48391074,2018-01-22 22:12:04,1,349,Pandas array of pairwise correlations between columns,1,"python, pandas, correlation",gc5
+48411341,2018-01-23 21:45:30,1,90,How to un-categoricalize a column in pandas,1,"python, pandas, dataframe",Brian Postow
+48325677,2018-01-18 16:13:23,1,65,"How can I ""untruncate"" series data with Pandas?",1,"python, pandas",asciiphil
+48377401,2018-01-22 08:31:24,1,48,finding highest cumulative percent change,1,pandas,shantanuo
+48421509,2018-01-24 11:33:40,1,242,"pandas to_json output in double quotes, to feed to Elasticsearch",1,"python, json, pandas, elasticsearch, dataframe",shantanuo
+48329815,2018-01-18 20:31:19,1,278,Creating a very large sparse matrix csv from a list of condensed data,3,"python, python-3.x, pandas, csv, numpy",Lelouch Lamperouge
+48331413,2018-01-18 22:35:32,0,224,Pandas better way to get rows that has all columns null except one,3,"python, pandas",Null-Hypothesis
+48195207,2018-01-10 20:02:56,1,81,How do I get pandas to plot in interactive mode?,0,"python, pandas, matplotlib",cjm2671
+48430606,2018-01-24 19:54:01,0,245,seaborn FacetGrid: plot one category and all the categories,1,"python, pandas, plot, seaborn",Ruggero Turra
+48432627,2018-01-24 22:18:27,0,121,Pandas: split dataframe on signal threshold,1,"python, pandas, signal-processing",Hooked
+48393818,2018-01-23 03:37:13,0,48,Saving memory with Pandas bi-temporal DataFrame,0,"python, pandas, dataframe, memory-management",Zhang18
+48402044,2018-01-23 12:41:57,1,260,Label axis on pandas group by plot,0,"python, pandas, matplotlib",Ivan
+48194545,2018-01-10 19:14:40,1,36,group pandas dataframe while averaging values in some columns,1,"python, pandas",user308827
+48397197,2018-01-23 08:30:27,0,322,Parsing dates with Pandas: how to take time zones into account?,2,"python, pandas, timezone, strftime, date-parsing",MasterScrat
+48373088,2018-01-22 00:10:45,2,1292,Duplicating training examples to handle class imbalance in a pandas data frame,1,"python, pandas, machine-learning, oversampling",Franck Dernoncourt
+48234384,2018-01-12 21:41:34,0,22,Resampling for each day timerange in pandas,1,"python, pandas",Maurice Kroon
+48248490,2018-01-14 10:04:59,2,22,replace pandas dataframe with a unique id,1,"python-2.7, pandas, numpy",Shew
+48321356,2018-01-18 12:27:09,1,260,pandas dataframe category codes from two columns,2,"python-2.7, pandas, numpy, categorical-data",Shew
+48437196,2018-01-25 06:55:04,2,28,get category type from codes of merged columns,2,"python, python-2.7, pandas, numpy, dataframe",Shew
+48430589,2018-01-24 19:52:45,1,48,Transforming dataframe with group by and include extra column values,2,"python, pandas",blue-sky
+48373687,2018-01-22 01:45:52,3,84,Concat column values based on condition,1,"python, pandas",blue-sky
+48352127,2018-01-20 02:50:04,-1,50,writing data frames to a sql table,1,"python, sql, pandas, pypyodbc",C0ppert0p
+48266653,2018-01-15 16:05:50,1,172,simple-itk: reading a sequence from a single tiff file,1,"python, performance, pandas, tiff, simpleitk",lhk
+48288304,2018-01-16 19:13:54,1,169,"pandas, keep groupby groups after apply",1,"python, pandas, pandas-groupby, pandas-apply",lhk
+48445691,2018-01-25 14:50:33,2,240,How to write on top of pandas HDF5 'read-only mode' files?,1,"python, python-3.x, pandas, hdf5",joaoavf
+48199221,2018-01-11 03:09:33,2,116,Broaden Pandas DataFrame with multiple source columns,4,"python, pandas",MidnightThoughtful
+48369927,2018-01-21 17:55:53,0,36,How to fix END and START values when smoothing a dataframe?,0,"python, pandas, numpy, plotly",symbolix
+48354195,2018-01-20 08:48:38,1,181,Pandas vs matplotlib datetime,1,"python, pandas, datetime, matplotlib",Scott B
+48265455,2018-01-15 14:57:42,0,111,Using dask map_partition gets stuck in inifinite error loop,0,"python, pandas, amazon-ec2, python-multiprocessing, dask",olix20
+48362325,2018-01-20 23:57:26,1,64,Correct way to access pandas dataframe,1,"python, pandas, pvlib",GlenS
+48291481,2018-01-16 23:32:51,0,84,pandas check same value in multiple columns,1,"python, pandas",Ajit
+48248710,2018-01-14 10:36:09,0,32,How can I create a conditional text column in Pandas?,1,"python-3.x, pandas",Hugo
+48207774,2018-01-11 13:02:31,0,603,Computing the difference between first and last values in a rolling window,1,"python, pandas, dataframe, lambda, sliding-window",Pandora
+48257687,2018-01-15 06:02:37,0,56,How to convert Python dict to DataFrame columns after Pandas version 0.21.0?,1,"python, pandas, dataframe",hansioux
+48347497,2018-01-19 18:33:59,2,1180,Pandas groupby diff,1,"python, pandas, group-by",Craig
+48447553,2018-01-25 16:22:46,0,46,pandas removes rows with nan in df,1,"python, python-3.x, pandas, dataframe",daiyue
+48399718,2018-01-23 10:43:53,0,62,pandas use Boolean mask replace row iteration in dataframe,2,"python, python-3.x, pandas, dataframe",daiyue
+48386113,2018-01-22 16:26:25,0,46,pandas creates new columns based on the values of the other columns in the same row,1,"python, python-3.x, pandas, dataframe",daiyue
+48382122,2018-01-22 12:56:37,2,1229,pandas dataframe check if index exists in a multi index,2,"pandas, multi-index",user77005
+48246955,2018-01-14 05:30:07,1,1325,How to get a value from a cell of a dataframe by position or label?,2,"python, pandas, dataframe",tommy.carstensen
+48409694,2018-01-23 19:48:20,0,380,using dataframe.apply to call unique function on each column,2,"python, pandas, dataframe, unique, apply",myusrn
+48234190,2018-01-12 21:24:14,1,48,Merging Dataframes with conditions on another dataframe,0,"python, python-3.x, pandas, numpy",lowjumpingfrog
+48432153,2018-01-24 21:46:12,4,1159,Compute percentile rank relative to a given population,3,"python, pandas, numpy, rank, percentile",sds
+48452933,2018-01-25 22:27:33,3,848,Python comparison ignoring nan,2,"python, python-2.7, pandas, nan, equality",sds
+48453186,2018-01-25 22:50:14,2,885,Pandas: nan->None,2,"python, python-2.7, pandas, nan",sds
+48361886,2018-01-20 22:49:38,1,99,Drop specific row from a DataFrame with a MultiIndex,1,"python, pandas, multi-index",jbssm
+48409527,2018-01-23 19:37:03,0,214,Multiple regex string replace on large text file using Python,2,"python, regex, pandas, parsing, replace",esafwan
+48372289,2018-01-21 22:17:34,-2,32,on efficiently separating one data file into two files for model building work,1,"python, pandas",user288609
+48195032,2018-01-10 19:50:03,0,32,Does pandas have an 'all' or 'forever' resample specification?,0,"python, pandas, dataframe",Rhys Ulerich
+48185809,2018-01-10 10:54:06,2,72,Copy argument vs Series.Copy(),2,"python, pandas",Sankara Narayanan
+48183281,2018-01-10 08:36:50,1,14,SettingWithCopyWarning of Pandas,0,pandas,Chan
+48180777,2018-01-10 05:22:23,0,226,Reshaping CSV data by stacking columns,1,"python, pandas, csv, reshape",Safat Mahmood
+48180718,2018-01-10 05:16:02,2,73,'int' object is not subscriptable (scraping tables from website),1,"python, pandas, beautifulsoup, typeerror",Hannah
+48179918,2018-01-10 03:35:01,0,92,How can I add an empty sparse series to a Pandas dataframe?,1,"python, pandas",spencerrecneps
+48179833,2018-01-10 03:23:38,1,26,searching rows with specific string from dataframe returns null in python,0,"python, pandas",Joohun Lee
+48179460,2018-01-10 02:31:28,0,1249,Save panda dataframe into csv file,0,"python-3.x, pandas, csv",Joohun Lee
+48179297,2018-01-10 02:08:10,3,517,Reindexing a specific level of a MultiIndex dataframe,1,"python, pandas, dataframe, multi-index, reindex",Bruno
+48178904,2018-01-10 01:04:50,0,52,Condense similar instances in dataframe while adding the features of each,2,"python, pandas, pandas-groupby",Warthog1
+48177672,2018-01-09 22:38:10,1,86,Python Data Loading slow performance,0,"python-3.x, performance, pandas, parallel-processing, sqlalchemy",Partha
+48177434,2018-01-09 22:16:15,-2,348,How to extract only the numerical part of the columns in this table? (Python),1,"python-3.x, pandas, numpy, pandas-datareader",Manuel Rincon
+48176949,2018-01-09 21:31:55,1,53,Repeat Values in Pandas between certain dates,1,"python, pandas, dataframe, time",Neelabh Pant
+48174608,2018-01-09 18:33:45,2,499,Count extracted values from Pandas value_counts(),2,"python, pandas",dpetrini
+48173695,2018-01-09 17:30:01,3,45,Issue With Updating Pandas Dataframe Column Based on Reference Table Targeting Another Column,1,"python, pandas, csv, dictionary, dataframe",ZuR4ruukmT0YPwgs
+48172430,2018-01-09 16:17:56,1,342,Importing data in .iqy files into Pandas,0,"python, pandas, sharepoint",tgordon18
+48171887,2018-01-09 15:46:58,-1,401,Only show round numbers on x-axis in point plot,1,"python, pandas, matplotlib, plot, seaborn",Felix
+48171492,2018-01-09 15:27:41,2,1781,"""No numeric types to aggregate"" after groupby and mean",2,"python, pandas",Harry
+48170960,2018-01-09 14:59:40,1,1925,Why is pandas.read_sas() so much slower than pandas.read_csv()?,0,"python, windows, pandas, csv",Nic Payne
+48170405,2018-01-09 14:31:22,3,2734,Is pd.get_dummies one-hot encoding?,2,"python, pandas, scikit-learn",Mattia Paterna
+48169391,2018-01-09 13:35:27,0,30,Create Field with the result of aggregated value,0,"python, pandas",Souleymane
+48168918,2018-01-09 13:08:27,1,37,multiple files combination in pandas,2,"python, pandas",Joono
+48168348,2018-01-09 12:35:12,2,1258,Pandas: Replace a column within a data frame by two columns,1,"python, pandas, multiple-columns",Gusto
+48167040,2018-01-09 11:19:07,1,92,Creating a pandas dataframe by searching two dataframes,2,"python, pandas",DrBrodsky
+48166760,2018-01-09 11:03:32,2,78,Pandas read csv with negative lookahead as seperator,1,"python, regex, pandas",Gusto
+48166741,2018-01-09 11:02:49,2,519,ModuleNotFoundError: No module named 'win32api' ...while importing tpot,1,"pandas, python-3.6, tpot",Pulkit Kedia
+48166461,2018-01-09 10:47:36,-2,282,getting error with plot with panda DataFrame,1,"python, pandas, dataframe, matplotlib, plot",yok
+48164969,2018-01-09 09:25:59,1,307,Writing large data to a excel column cell with looping,1,"python, excel, pandas, xlsxwriter",griez007
+48161240,2018-01-09 04:00:03,0,21,Pandas DataFrame expand existing dataset to finer timestamp,0,"pandas, numpy, dataframe, timestamp",spoonagi
+48160623,2018-01-09 02:20:51,1,67,"python json to csv , code can only parse part of json data",0,"python, json, pandas, csv",Allen Wei
+48158202,2018-01-08 21:18:58,0,680,How to install pandas and dependencies offline,1,"c++, windows, pandas, server",Mayara Ferreira
+48158184,2018-01-08 21:17:28,1,25,Optimising pandas loop on a large dataframe while needing to limit the rows the loop performs on,1,"python-3.x, pandas, optimization",Jisket
+48156939,2018-01-08 19:32:08,1,185,Python Pandas: How to remove all columns from dataframe that contains the values in a list?,3,"python, pandas, pyspark, spark-dataframe",Cody
+48156915,2018-01-08 19:30:14,2,882,Reading Excel file to Python fails due to number formatted as text,1,"excel, excel-vba, pandas, openpyxl, xlrd, vba",wkzhu
+48156342,2018-01-08 18:47:16,1,30,Creating a Pandas DataFrame by splitting the original DF on different caegories,1,"python, pandas",aRad
+48155218,2018-01-08 17:31:07,0,28,How to compute series with different index?,1,"python-3.x, pandas, series",Ricky Parker
+48154924,2018-01-08 17:11:12,1,66,Storing pandas DF in hdf file - too many timezones error,1,"python, pandas, datetime",CrunchyCruncha
+48154042,2018-01-08 16:13:05,1,705,pandas merge with duplicate values in index,1,"python, pandas",skgbanga
+48153934,2018-01-08 16:04:56,0,35,Optimise Pandas.series conversion to a set,1,"python, pandas",iam.Carrot
+48151574,2018-01-08 13:44:49,1,69,Iterating over a text column in a dataframe,3,"python-3.x, pandas",TundeOre
+48151540,2018-01-08 13:42:37,0,39,Pandas loads JSON file DatetimeIndex and not float,1,"python, json, pandas",itai ariel
+48151497,2018-01-08 13:39:54,0,40,Pandas Dataframe Faster Approach,2,"python, pandas, dataframe",R.J. Jackson
+48151024,2018-01-08 13:11:39,1,179,Parsing SAS datetime to pandas dataframe,1,"python, pandas, datetime, sas",CrunchyCruncha
+48150111,2018-01-08 12:15:38,0,112,Using Matplotlib object oriented interface to plot a bar chart from a data frame,0,"python, pandas, matplotlib",colibrisson
+48147971,2018-01-08 10:03:40,0,76,Merge duplicate rows and delete all duplicates after merging into one row,2,"python, pandas, dataframe, data-cleaning",ramez
+48147872,2018-01-08 09:57:50,0,105,"Pandas Dataframe: Select row where column contains X, in multiindex",0,"python, pandas, dataframe, multi-index",Rickeyhb
+48147283,2018-01-08 09:20:30,1,48,Partial Indexing Error in Python Series,0,"python, python-3.x, pandas, numpy",Jahanxb Khan
+48147272,2018-01-08 09:19:54,2,21,Adding a column of differences from another column to groups of a dataframe,1,"python, pandas",Julian
+48146538,2018-01-08 08:25:22,0,46,Time categorization in pandas,0,"python, pandas",barkat khan
+48144684,2018-01-08 05:30:24,1,57,Rounding down datetime column by the hour,3,"python, pandas, date, datetime, dataframe",Satyajit Pattnaik
+48143316,2018-01-08 01:50:44,1,117,groupby and sum by specify row type in pandas,3,"python, pandas",jeff
+48143113,2018-01-08 01:11:11,1,345,How do I add a title to a grouped pandas dataframe?,1,"python, pandas, group-by, histogram",laythstag
+48139274,2018-01-07 16:35:56,3,977,Removing leading zeros from pandas.core.series.Series,3,"python, pandas, time-series",Elina
+48138757,2018-01-07 15:41:40,1,244,Can't reshape to right shape size,1,"python, pandas, numpy, reshape",Allen Yeh
+48136756,2018-01-07 11:41:26,-1,117,Slice indices must have an __index__ method,1,"python, pandas",HISI
+48133827,2018-01-07 02:32:26,1,716,Time Series Forecasting for Humidity,1,"python, pandas, machine-learning, time-series, arima",niranjan272
+48133358,2018-01-07 00:46:24,0,824,"Create sparse matrix with pandas and fill it with values from one column of .dat file at indexes [x,y] from other two columns of .dat file",1,"python, pandas, numpy, matrix, scipy",akle
+48131812,2018-01-06 20:53:58,2,3061,Get unique values of multiple columns as a new dataframe in pandas,1,"python, pandas, pandas-groupby",Ofek Ron
+48131408,2018-01-06 20:07:00,0,595,Merging Excel Files with Pandas,2,"excel, python-3.x, pandas",Issam Beik
+48130196,2018-01-06 17:55:24,0,756,StatsModel logit.predict error: Number of rows mismatch between data argument and new values,0,"python, pandas, scikit-learn, predict",Saraki
+48128670,2018-01-06 15:12:02,0,102,How to extract numbers from a text file with appropriate labels in python,2,"python, pandas, numpy",jax
+48127893,2018-01-06 13:35:39,2,39,Get the values related to row in pandas in python,2,"python, pandas",J Cena
+48126563,2018-01-06 10:48:56,1,88,Python in two different directories( one specified and one hidden),3,"python, pandas, pip",user3776800
+48125961,2018-01-06 09:25:06,1,63,Pandas and CSV Libraries CSV Manipulation,1,"python, pandas, csv",Anne
+48124809,2018-01-06 06:11:20,1,36,compute dataframe operations on selected rows only,0,"python, pandas, dataframe",ashwani
+48123740,2018-01-06 02:30:30,2,71,How to count the frequency of a record based on condition in another column in pandas?,4,"python, pandas",alys
+48123253,2018-01-06 00:49:50,0,306,Format Dictionary Key:Value on a New Line and New Tab,1,"python, pandas, dictionary, formatting",WaterGuy
+48123081,2018-01-06 00:24:12,0,153,pandas Grouper changes date value,0,"python, pandas",Evan
+48123045,2018-01-06 00:16:56,0,1042,Python pandas convert multiple headers in excel file into columns,2,"python, excel, pandas, dataframe",Shaggy
+48122696,2018-01-05 23:26:04,0,329,pd.to_numeric converts entire series to NaN,1,"python, pandas, dataframe",Alissa
+48122046,2018-01-05 22:15:38,1,256,Pandas: Convert Month Name to Int + Concat to Column and Convert to Date time,1,"python, pandas, datetime, calendar",G.G.
+48121901,2018-01-05 22:01:54,1,62,How to print pandas.dataframe.head without cutting long parameters,1,pandas,ronseg
+48120471,2018-01-05 19:59:16,3,37,Conditional values for column in pandas,2,"python, pandas",Elias Uhalde
+48120216,2018-01-05 19:38:15,0,433,Parse JSON using pandas,2,"python, json, pandas",SNT
+48119915,2018-01-05 19:16:47,1,52,Python - Regex split data in Dataframe,3,"python, pandas",ekjcfn3902039
+48119907,2018-01-05 19:15:56,0,37,Create Range Column with duplicate values pandas,0,"python, pandas",the_deuce
+48118809,2018-01-05 17:51:34,1,656,Add different color markers by day of week to a Pandas time series plot,2,"python, pandas, matplotlib, timeserieschart",blackszu
+48117256,2018-01-05 16:09:59,1,56,Cleaning date column imported from excel,1,"python, pandas, date",MarkoBox
+48115214,2018-01-05 14:05:02,0,405,pd.describe() does not work,0,"pandas, describe",Alivin Wang
+48115087,2018-01-05 13:57:34,0,1362,converting ParquetFile to pandas Dataframe with a column with a set of string in python,1,"python, pandas, fastparquet",Reyhaneh
+48113905,2018-01-05 12:44:03,1,118,Slice a Pandas Dataframe based on the results of a function on a column,1,"python, pandas, dataframe, slice, series",Georgina Peach
+48111889,2018-01-05 10:41:54,2,1264,Merge two DataFrames on multiple columns,1,"pandas, dataframe, merge",codyycode
+48110802,2018-01-05 09:38:00,0,99,unmelt pandas dataframe and create new columns for duplicate columns,1,"python, pandas, dataframe",Chester Cheng
+48108403,2018-01-05 06:35:21,1,183,Comparing pandas Dataframe columns values one by one,2,"python, pandas, dataframe, compare",Robin
+48108025,2018-01-05 06:01:14,0,87,how to display matching row in pandas groupby,0,"python, pandas, pandas-groupby",Sam Joe
+48107850,2018-01-04 06:06:22,0,410,How to reorder some rows in specfic orders in pandas python,2,"machine-learning, pandas, dataframe",Ajay
+48106544,2018-01-05 02:53:02,-2,54,Data type issue with pandas dataframe,1,"python, pandas, dataframe",Vishal
+48104907,2018-01-04 23:09:29,0,98,Turn pandas dataframe row in to a column based on unique IDs,1,"python, pandas, dataframe, reshape",ERS
+48104068,2018-01-04 21:48:17,0,39,Apply floating point values based on 'coded' integers with loops,1,"python, pandas",Lou-gazi
+48104001,2018-01-04 21:42:09,1,295,Pandas Read_CSV incorrectly reads numbers,1,"python, python-3.x, python-2.7, pandas",edb500
+48102429,2018-01-04 19:42:01,0,55,Pandas One by One Entry with Python,2,"python, python-3.x, pandas",Emman Lopez Telewik
+48101815,2018-01-04 18:57:38,1,196,Custom PeriodIndex (Python / Pandas equivalent to SAS INTNX),1,"python, pandas, datetime",Bruno
+48100396,2018-01-04 17:19:40,2,40,How to rotate Pandas Dataframe MultiIndex Rows into MultiIndex Columns?,1,"python, python-3.x, pandas",user9173983
+48099934,2018-01-04 16:50:45,0,40,Easier way to create pandas multi-column Dataframe?,1,"python, pandas",varantir
+48098985,2018-01-04 15:58:30,-1,685,pandas iterate rows to a new dataframe,2,"python, pandas",Yogi
+48098722,2018-01-04 15:43:34,1,291,simple apply to concat pandas-columns,2,"python-3.x, pandas, apply",r.user.05apr
+48097982,2018-01-04 15:01:55,0,38,Pandas Entry Using Python,0,"python, pandas",james bondo
+48095457,2018-01-04 12:34:31,0,688,correcting for floating point arithmetic 'errors' when rounding in pandas,1,"python, pandas, floating-accuracy, rounding-error",Mark Dranias
+48093083,2018-01-04 10:15:47,1,38,Pandas compare values for the same time every day,1,"python, pandas, dataframe",Trần Danh Lưu
+48092411,2018-01-04 09:38:23,1,27,Creating pandas dataframes from nested json file that has lista,1,"python, json, pandas, dataframe",penestia
+48091106,2018-01-04 08:08:20,1,752,Python list to .csv,1,"python, pandas",saddle point
+48090861,2018-01-04 07:49:52,1,160,Key Error despite using the correct column name,1,"python, pandas",Abcd
+48090565,2018-01-04 07:26:57,1,84,Get special group in pandas multiindex,1,"pandas, multi-index",zwordcn
+48089167,2018-01-04 05:26:36,1,69,Combine columns and sort the values before creating a new column,2,"python, pandas, csv, sorting",Marcel
+48087861,2018-01-04 02:28:21,-1,876,tf.estimator.inputs.pandas_input_fn throws _NumericColumn' object has no attribute 'insert_transformed_feature,1,"pandas, numpy, tensorflow",Walker Rowe
+48087729,2018-01-04 02:05:56,1,133,pandas groupby & aggregate into original dataframe,1,"python, pandas, dataframe",Tian Yan
+48086073,2018-01-03 22:26:14,0,41,Python3 function with pandas dataframe input runs slower then 1st time and faster the 2nd time,0,"python, python-3.x, performance, function, pandas",Sam
+48084878,2018-01-03 20:46:15,0,66,Sum values in column 3 related to unique values in column 2 and 1,1,"python, pandas, sorting, sum, grouping",P. Faske
+48084262,2018-01-03 19:55:28,0,83,Sort a list based on values from dataframe,2,"python, pandas, sorting",Pawel
+48084196,2018-01-03 19:50:12,0,80,Getting value from groupby matrix,1,"python, pandas, validation, dataframe, pandas-groupby",Rodi
+48081103,2018-01-03 16:13:58,0,299,MySql read_sql python query with variable @,1,"python, mysql, pandas, variables",Kenny
+48079374,2018-01-03 14:30:10,0,101,How to read and open gal file from a selected path in my pc?,1,"python, pandas, file, gal",yousif
+48079316,2018-01-03 14:27:47,0,320,Python : error tuple index out of range when plotting pandas columns X Vs Y,0,"python, pandas, matplotlib, plot",Jerome 
+48079133,2018-01-03 14:15:57,2,62,Is there a quicker way of iterating through and removing specific rows in a Pandas dataframe?,1,"python, pandas, loops, dataframe, jupyter-notebook",Swedish Mike
+48078901,2018-01-03 14:00:07,0,474,Dataframe split but get error 'list' object has no attribute 'str',0,"python, pandas, dataframe",Naxe
+48078692,2018-01-03 13:47:45,0,52,Pivot pandas timeseries by year,1,"python, pandas",piiipmatz
+48078271,2018-01-03 13:21:44,-1,36,List with Filepaths search for specific files python,1,"python, python-3.x, pandas",Patrick.H
+48077401,2018-01-03 12:27:06,1,649,Reading in CSV columns as categorical variables using pandas,1,"python, pandas, csv",Learner
+48076398,2018-01-03 11:23:45,0,55,How to create a function to read the current single row from a csv file whenever it will be called from main function or main loop?,2,"python-3.x, pandas, csv, dataframe",Prayuktibid
+48076384,2018-01-03 11:22:57,0,437,Lifelines boolean index in Python did not match indexed array along dimension 0; dimension is 88 but corresponding boolean dimension is 76,1,"python, pandas, cox-regression, cox, lifelines",slesher
+48076276,2018-01-03 11:16:09,1,208,Selecting single row as dataframe with DatetimeIndex,3,"python, pandas",Marcus V.
+48074462,2018-01-03 09:21:24,0,1440,Scikit Learn OneHotEncoder fit and transform Error: ValueError: X has different shape than during fitting,2,"python, pandas, machine-learning, scikit-learn, one-hot-encoding",Punith Raj
+48070320,2018-01-03 02:15:07,1,107,Changing boolean value within a DataFrame iterrows does nothing,1,"python, python-3.x, pandas",JavoSN
+48068076,2018-01-02 21:28:09,-1,553,"Python pandas, errors using .str.contains to search dataframe column for substring",1,"python, pandas, dataframe, filtering, contains",guest10501726
+48065943,2018-01-02 18:25:42,-4,68,Pandas: How to combine rows,1,"python, pandas, dataframe, data-science",niallmandal
+48065797,2018-01-02 18:13:56,0,61,Python: How to take the first value of a column of multiple .csv files + its name and make a new file with them,2,"python, pandas, csv, glob",toyo10
+48065753,2018-01-02 18:09:35,0,83,"Sort by two columns, why not do grouping first?",1,"python, sql, pandas, sorting, group-by",Cheng
+48064232,2018-01-02 16:11:36,2,160,Conditionally assign values to DF column using np.where,3,"python, pandas, dataframe",Hagai Israeli
+48061836,2018-01-02 13:23:07,1,88,Matrix operations on labeled arrays,0,"python, pandas, numpy, matrix, python-xarray",Joe H
+48061769,2018-01-02 13:17:51,1,175,Compare one column with multiple column containing categorical values without loops,1,"python, pandas, numpy",jazz090
+48060962,2018-01-02 12:24:27,3,183,How to keep DataFrame / column and index names after calculation with np.where?,2,"python, pandas, numpy",Alexander Thomsen
+48056858,2018-01-02 07:05:06,0,48,creating a new dataframe each time and applying sum,0,"python, sql, sqlite, pandas",aditass
+48056265,2018-01-02 06:07:49,-1,101,How to copy specific values in one pandas data frame into another?,2,"python, excel, pandas, dataframe",Abdul Karim Khan
+48393536,2018-01-23 03:02:11,-1,31,Can number of Leads be predicted based on previous months,1,"python, pandas, numpy, matplotlib, machine-learning",Sandeep Nair
+48282691,2018-01-16 13:44:27,2,856,pandas grouper issue with key that is an index,2,"python, python-3.x, pandas",amadain
+48153180,2018-01-08 15:21:03,0,1042,Count number of unique values for multiple columns in Python,1,"python, pandas, loops, numpy, apply",pras
+48144828,2018-01-08 05:46:46,3,474,How to replace certain values in a pandas column with the mean column value of similar rows?,2,"python, pandas, dataframe",kpsgf7
+48140575,2018-01-07 19:01:53,1,63,Using .pivot() after saving and loading from CSV causes KeyError,1,"python, pandas, dataframe, pivot, keyerror",kailee
+48273112,2018-01-16 02:04:11,1,660,Encoding string features in pandas,2,"python, pandas, scikit-learn",Fraz
+48299723,2018-01-17 11:11:33,0,21,Re-structure a pandas dataframe,1,"python, pandas",orak
+48406295,2018-01-23 16:17:18,0,22,Read values from multiple rows and combine them in another row in pandas dataframe,2,"python, pandas",orak
+48267427,2018-01-15 16:51:30,0,223,Trouble in creating graphics with matplotlib in a Jupyter notebook,1,"python, pandas, matplotlib, azure-machine-learning",craftApprentice
+48307163,2018-01-17 17:52:41,1,54,Counters for changes in column,1,"python, pandas",John
+48433463,2018-01-24 23:39:38,0,53,How to select a lot of specific rows from postgres,0,"python, postgresql, pandas, sqlalchemy",Slackware
+48430711,2018-01-24 20:01:27,0,43,How to append a third column in a dataframe using conditions from 2 other columns in a dataframe,2,"python, pandas, numpy, data-science",user1017373
+48421062,2018-01-24 11:11:09,2,49,Faster function or script for computing a large dataframe,1,"python, pandas, numpy, data-science, pandas-groupby",user1017373
+48426455,2018-01-24 15:48:59,0,44,Grouping features in a data frame based on events,0,"python, pandas, numpy, group-by, data-science",user1017373
+48388616,2018-01-22 19:05:01,-1,341,Create a new data frame based on conditions from columns of a given dataframe,1,"python, pandas, numpy, group-by",user1017373
+48383789,2018-01-22 14:26:53,0,42,Use the Timestamp information to classify the columns into busniess hours and weekdays,2,"python, pandas, numpy",user1017373
+48214357,2018-01-11 19:17:55,0,199,Select xarray/pandas index based on a list of months,3,"python, pandas, numpy, python-xarray",bchate
+48286534,2018-01-16 17:14:56,-1,74,How to work with data different from schema in pandas python,2,"python-2.7, pandas",drgnrbrn
+48391911,2018-01-22 23:31:14,0,40,Replace values from pandas dataset with dictionary,1,"python, pandas, dictionary, replace",xzegga
+48216978,2018-01-11 22:41:27,0,697,"Pandas: how to ""unpivot"" a pivot table?",1,"python, pandas",Munichong
+48428438,2018-01-24 17:31:23,0,97,set rows in Pandas dataframe to NaN starting from where index is equal to certain value,2,"python, pandas",ArchieTiger
+48206911,2018-01-11 12:18:34,2,53,Pandas sort every column separately and add new reference column by side,2,"pandas, sorting, dataframe, lookup",Vivek
+48304580,2018-01-17 15:27:42,0,72,Pandas: Create new columns with values from other rows,1,"python, pandas",GSta
+48229656,2018-01-12 15:50:29,1,211,Parse Postgres array to Python list,0,"python-3.x, postgresql, pandas",Brylie Christopher Oxley
+48449076,2018-01-25 17:52:07,1,106,Self-made Yahoo query for Finance data - error with pandas read_csv,0,"pandas, python-requests",Andreas K.
+48192168,2018-01-10 16:40:55,1,54,DatetimeIndex: what is the purpose of 'freq' attribute?,2,"python, pandas",luca
+48409617,2018-01-23 19:43:33,1,25,Pandas: Changing old values at list of index with with list of new values,1,"python-3.x, pandas",Zanam
+48203528,2018-01-11 09:24:10,0,190,networkx: add edges from list of relationships,1,"python, pandas, networkx",Guido Lo Spacy
+48231778,2018-01-12 18:03:46,0,46,How to handle a quote character in a quoted csv column using python and pandas?,0,"python, pandas",Jabb
+48425556,2018-01-24 15:02:18,3,50,python pandas: count no of users falls in the both categories,3,"python, pandas",Mohammad Saifullah
+48253160,2018-01-14 19:06:56,0,18,Pandas dataframe: selecting a measurement by the max of an independent series?,0,"python, pandas, dataframe",user1276560
+48454604,2018-01-26 01:31:15,3,340,Algorithm for smoothing a curve strictly above the original,3,"python, algorithm, pandas, numpy, smoothing",Alfe
+48308770,2018-01-17 19:40:53,0,672,Dataframe count of positive values in range as a new column,2,"pandas, dataframe",Ali
+48432026,2018-01-24 21:38:24,0,51,Conditional Pandas Concat,1,"python, pandas, concatenation",WolVes
+48292685,2018-01-17 02:18:52,0,31,"Pandas: How to summarize data, groupby, unique",2,"python, pandas",luisfer
+48209811,2018-01-11 14:49:58,2,46,How to notify pandas DataFrame modification?,0,"python, pandas",Alexis
+48192836,2018-01-10 17:20:44,3,54,"Pandas line plot suppresses half of the xticks, how to stop it?",1,"python, pandas, matplotlib, plot",seanysull
+48380854,2018-01-22 11:45:33,-1,80,What is the best choice for data storage in Pandas for mixed type data?,1,"python, pandas, storage",seanysull
+48368714,2018-01-21 15:59:13,0,112,Pandas: Days since last event per id,2,pandas,L1meta
+48278281,2018-01-16 09:45:30,1,149,pandas resample timed events in DataFrame to precise time-bins,2,"python, pandas, resampling",qbit
+48266253,2018-01-15 15:44:35,0,23,how can I slice the index of a data frame for dates,2,"python-2.7, pandas",math
+48281925,2018-01-16 13:02:09,0,46,Creating new unique rows from a list of possible column values,2,"python, pandas",user1361529
+48326579,2018-01-18 16:58:09,0,95,Unable to iterate over pandas dataframe loaded from tabular data,1,"python, pandas, dataframe, scanpy",Jorvis
+48209506,2018-01-11 14:34:12,1,1149,PyCharm shows no output from pandas,4,"python, pandas, pycharm",Mithrand1r
+48321139,2018-01-18 12:16:03,2,73,"Pandas. 2 col dataframe. Get intersection matrix (all to all, from col #1)",1,"python, pandas, numpy",Edgard Gomez Sennovskaya
+48305004,2018-01-17 15:50:09,0,56,Pannable-zoomable matplotlib / pandas UI plot for time-series,0,"python, pandas, matplotlib",Basj
+48308743,2018-01-17 19:38:53,-1,57,performing just one iteration of a function using python,2,"python, pandas, break",Taylrl
+48349447,2018-01-19 20:58:37,2,190,How to aggregate multiple columns to sets in one pass through the rows,1,"pandas, group-by, listagg",r2d2oid
+48447812,2018-01-25 16:35:47,1,188,python pandas merge_asof groupby,2,"python, pandas, dataframe, merge",dsclough
+48410032,2018-01-23 20:12:07,0,154,Emulating an excel sumifs / multi-criteria index match with dataframes in python / pandas,1,"python, excel, pandas, dataframe, sumifs",dsclough
+48285160,2018-01-16 15:53:51,1,33,Write 1s faster to col-rows based on positions in a list,2,"python-3.x, list, pandas, dataframe",RightmireM
+48191115,2018-01-10 15:44:01,0,63,Is the data parameter for pandas.DataFrame lazily evaluated?,1,"python, sql-server, pandas",user1443098
+48254575,2018-01-14 21:57:05,-1,56,Count @ in all sheets in an excel file,2,"python, excel, python-3.x, pandas",Rasmus Bidstrup
+48446408,2018-01-25 15:27:38,1,34,how to convert a dictionary containing iterables as items to a dataframe,1,"python, pandas, dictionary, dataframe",00__00__00
+48445748,2018-01-25 14:53:04,1,164,"group the same consecutive values in pandas and store: values, indices, and column slices",2,"python, pandas",00__00__00
+48299874,2018-01-17 11:19:41,1,93,How to groupby column headers using a regex?,1,"python, regex, pandas, group-by",Cleb
+48376278,2018-01-22 07:10:47,1,607,"Querying timedelta column in pandas, and filtering rows",1,"sql, pandas, filtering, flags, timedelta",user1541055
+48428584,2018-01-24 17:39:52,0,244,How to use to_sql method to fill table with column with point datatype using postgresql and pandas?,1,"postgresql, pandas",gabomgp
+48322421,2018-01-18 13:23:19,2,524,Pandas resample FutureWarning,1,"python, pandas, apply",Tanmay
+48344806,2018-01-19 15:50:07,2,446,Making a custom window type for pandas rolling mean,1,"python, pandas, mean, moving-average",Tanmay
+48403486,2018-01-23 13:57:41,-1,64,Categorical variables,1,"python, pandas, scikit-learn",jacob
+48195562,2018-01-10 20:29:41,0,48,display the most frequent value for _several_ columns in a pivot like table?,0,"python, pandas, pivot",jacob
+48238305,2018-01-13 08:47:47,6,4499,Bar plot with groupby,1,"pandas, matplotlib, seaborn",jacob
+48355998,2018-01-20 12:13:15,1,182,Parse Nested JSON with Python and Pandas,1,pandas,user1610115
+48204558,2018-01-11 10:15:07,1,41,Column order when pivoting dataframe,2,"python, pandas, dataframe, pivot",ThatQuantDude
+48215759,2018-01-11 21:04:19,0,412,Some ETF Tickers Not Working in Yahoo Finance DataReader,1,"python, pandas, finance, yahoo-finance, pandas-datareader",rhaskett
+48298076,2018-01-17 09:51:17,2,36,Merge columns and convert to utc timezone,1,"python, pandas",Arun Shankar
+48349373,2018-01-19 20:52:14,0,37,read a string using panda dataframe,1,"python, pandas",Arun Shankar
+48315955,2018-01-18 07:34:43,1,458,CET and CEST conversion to UTC,2,"python, pandas",Arun Shankar
+48448472,2018-01-25 17:13:04,0,234,Try to download all the csv from the ipython console from datacamp,2,"pandas, csv, ipython",Victor Tong
+48428531,2018-01-24 17:37:08,-2,106,Set_index() on a Pandas DataFrame giving unexpected results,1,"python, pandas",Bazman
+48424103,2018-01-24 13:50:29,1,341,Unable to sort Pandas DataFrame,1,"python, pandas",Bazman
+48252891,2018-01-14 18:39:06,1,648,Unable to import Pandas_Datareader,2,"python, python-3.x, pandas, pandas-datareader",Bazman
+48342726,2018-01-19 13:57:16,0,25,Update the high of the day column based on time series data vector in python,1,"python, pandas, numpy",Giladbi
+48379224,2018-01-22 10:18:21,0,58,Python re-sampling time series data which can not be indexed,1,"python, pandas, pandas-groupby",Giladbi
+48194815,2018-01-10 19:34:01,0,185,How to add multiple rows on dataframe based on a column of distinct values? pandas/python,0,"python, pandas",user1775614
+48193166,2018-01-10 17:40:47,3,970,How to select nested columns in a multi-indexed pandas dataframe,3,"python, pandas, dataframe, indexing, multi-index",tevang
+48211424,2018-01-11 16:11:29,1,66,How to make a years on Y axis and months on X axis plot with pandas?,2,"python, pandas, matplotlib",Newskooler
+48326186,2018-01-18 16:38:11,1,69,How to create a pandas pivot table,2,"python, pandas, pivot-table",Newskooler
+48293874,2018-01-17 04:58:32,0,235,Pandas dataframe group by doesn't remove grouped key,2,"python, pandas, group-by, pandas-groupby",Rohit Pandey
+48456348,2018-01-26 05:49:09,0,253,Python getting conditional probabilities of all feature combinations in pandas dataframe,1,"python, performance, pandas, numpy, statistics",Rohit Pandey
+48434391,2018-01-25 01:45:55,1,539,Calculate t-test statistic for each group in pandas DataFrame,1,"python, pandas, scikit-learn, pandas-groupby",Max Ghenis
+48284040,2018-01-16 14:55:47,1,365,Merge two rows in pandas if None or nan,2,"python, pandas, nan, pandas-groupby",Michael Dorner
+48303526,2018-01-17 14:31:27,1,86,"Performing bitwise operations (|, &) on dataframe columns",1,"python, pandas, bit-manipulation",Michael Dorner
+48345640,2018-01-19 16:36:48,2,249,How to coerce pandas dataframe column to be normal index,1,"python, pandas, dataframe",bli
+48448091,2018-01-25 16:50:43,1,879,Resample pandas dataframe and apply mode,1,"python, pandas, dataframe, mode",olyashevska
+48398837,2018-01-23 09:58:23,2,226,Pandas time series index based on datetime.time,1,"python, pandas",CodingButStillAlive
+48401239,2018-01-23 12:01:09,0,18,Strange behavior of DataFrame.drop method,0,pandas,CodingButStillAlive
+48300926,2018-01-17 12:14:58,1,67,How to read elapsed time spans into pandas time series,1,pandas,CodingButStillAlive
+48391526,2018-01-22 22:50:04,1,52,Efficient data structure to keep dictionary-like observations keyed by time in Pandas?,1,"python, pandas, dictionary, data-structures, time-series",Alex Bausk
+48344087,2018-01-19 15:09:59,1,32,Get the count for each subgroup in a multiple grouped pandas.DateFrame aggregated on one group,1,"python, pandas",jessepeng
+48329053,2018-01-18 19:37:11,0,31,Link prediction with input data,1,"pandas, numpy, knn",spitzbuaamy
+48196115,2018-01-10 21:09:05,0,41,Pandas mapping columns from multiple dataframes,1,"python, pandas",Jaswanth Kumar
+48456483,2018-01-26 06:05:59,1,220,Keras modelling: Do I need one-hot encoding and if so how?,1,"python, pandas, keras",Skye
+48449355,2018-01-25 18:11:25,5,49,Parse datetimes when loading a DataFrame with pd.read_clipboard,2,"python, pandas, date, datetime, dataframe",Alex
+48254436,2018-01-14 21:39:20,1,64,Python Pandas Dataframe - compute difference between rows and take the minimum one,1,"python, pandas, dataframe",Ziva
+48318813,2018-01-18 10:16:15,1,90,simplify python/pandas code,2,"python, pandas, series",Paavo Leinonen
+48341233,2018-01-19 12:33:13,7,2221,"ts.plot() and dataFrame.plot() throwing error: "" NameError: name '_converter' is not defined""",3,"python, pandas, matplotlib, time-series",wilson_smyth
+48445505,2018-01-25 14:42:12,1,60,drop nan in a subset of columns,1,"python, pandas, dataframe, nan",gabboshow
+48449805,2018-01-25 18:42:58,3,167,large index values causing pandas KeyError,1,"python, pandas",Mike
+48272540,2018-01-16 00:27:14,1,4763,"Pandas TypeError: Only valid with DatetimeIndex, TimedeltaIndex or PeriodIndex, but got an instance of 'Int64Index'",1,"python, pandas, validation",Chris
+48236922,2018-01-13 04:29:44,0,37,Convert and Assign Pandas Series to a dataframe to create CSV,1,"python, pandas",Chris
+48290318,2018-01-16 21:45:27,-1,88,How to create a copy of an existing DataFrame(panda)?,2,"python, pandas, machine-learning, clone",Manas Mukherjee
+48350376,2018-01-19 22:21:25,0,596,Converting a Spark dataframe to Pandas dataframe converts timestamp to object,0,"python-2.7, pandas, apache-spark, spark-dataframe",Jane Wayne
+48450244,2018-01-25 19:10:31,0,54,Pandas data frame with frequencies,2,"python, pandas",Coding hierarchy
+48215909,2018-01-11 21:16:09,0,178,Time Series Analysis for Individual Customers,1,"python, pandas, time-series, forecasting, arima",niranjan272
+48216930,2018-01-11 22:37:53,1,285,pandas set column value based on two conditions,2,"python, python-2.7, pandas",user2242044
+48235577,2018-01-12 23:50:48,1,146,Multiplying a Pandas column by a multi-index value,3,"python, python-2.7, pandas",user2242044
+48236364,2018-01-13 02:15:50,0,209,Using Pandas shift with multi-index,2,"python, python-2.7, pandas",user2242044
+48429439,2018-01-24 18:36:53,1,437,Sorting month columns in pandas pivot_table,1,"python, python-2.7, pandas",user2242044
+48369578,2018-01-21 17:21:27,2,299,Prevent Pandas to_json() from adding time component to date object,3,"python, python-2.7, pandas, date",user2242044
+48205375,2018-01-11 10:54:11,0,32,Convert pandas dataframe to 2 deep dictionary,2,"python, pandas, dictionary",Sembei Norimaki
+48208343,2018-01-11 13:34:03,1,536,Pandas Dataframe to dict grouping by column,2,"python, pandas, dictionary, dataframe",Sembei Norimaki
+48267018,2018-01-15 16:28:10,3,284,Pandas dataframe to hierarchical dictionary,2,"python, pandas, dictionary, dataframe",Sembei Norimaki
+48251562,2018-01-14 16:16:00,6,634,How can I get mode(s) of pandas dataframe object values?,4,"python, python-3.x, pandas, dataframe, counter",DonnRK
+48302876,2018-01-17 13:57:14,0,27,dtype changes after set_value/at,1,"python, pandas",porthunt
+48273907,2018-01-16 04:01:20,2,1379,Pandas- set values to an empty dataframe,4,"python, pandas",Clock Slave
+48281449,2018-01-16 12:36:20,2,34,Merging DataFrames via Smoothing,1,"python-3.x, pandas, merge",Bruno
+48328572,2018-01-18 19:02:41,1,42,How to update np.array conditionally?,3,"python, arrays, pandas, numpy, conditional",user2403607
+48389030,2018-01-22 19:36:21,0,361,pd.read_csv fails after converting the timezone,2,"python, pandas, csv, matplotlib",Mona Jalal
+48387878,2018-01-22 18:18:10,3,6293,AttributeError: 'DataFrame' object has no attribute 'to_datetime',1,"python, pandas, datetime",Mona Jalal
+48388503,2018-01-22 18:57:59,1,129,timezone conversion by tz_convert doesn't get saved in pandas dataframe,2,"python, pandas, dataframe, timezone",Mona Jalal
+48379879,2018-01-22 10:52:55,1,134,"How to efficiently and ""pythonically"" remove ""old"" rows from pandas DataFrame?",1,"python, pandas",ldavid
+48327179,2018-01-18 17:33:32,0,43,Pandas: concise way to create/set subset or rows and columns (with MultiIndex),2,"python, pandas",Stas S
+48344566,2018-01-19 15:37:42,1,163,How to format axis x date ('dd/mm/yyyy')?,1,"python, pandas, date, matplotlib, plot",RafaBitten
+48428116,2018-01-24 17:12:52,0,368,Pandas - Reading CSV file with field contents grouped in different cells,1,"python, pandas, dataframe, jupyter-notebook",Irina
+48201454,2018-01-11 07:03:04,0,317,Extract middle word of letter python,3,"python, string, pandas, split",al1991
+48247029,2018-01-14 05:49:55,1,758,Is it possible to read HTML tables into pandas with style tag?,1,"python, html, pandas",germ
+48197747,2018-01-10 23:30:16,1,25,How can I use pandas.apply with args on a sparse dataframe?,0,"python, pandas",spencerrecneps
+48304947,2018-01-17 15:47:24,0,749,How to format all cells in one sheet based on corresponding cell values in another sheet using XlsxWriter?,1,"python, excel, pandas, dataframe, xlsxwriter",Krzysztof Słowiński
+48230428,2018-01-12 16:37:09,0,726,Count the number of items in each bin,1,"python, pandas",Bahador Saket
+48393336,2018-01-23 02:37:02,2,931,Pandas groupby sort within groups retaining multiple aggregates,2,"python, pandas, sorting, pandas-groupby",sfjac
+48451716,2018-01-25 20:51:42,1,481,python pandas portfolio return,2,"python, pandas, finance",antonio_zeus
+48330559,2018-01-18 21:25:39,0,94,codec can't decode byte (and the solutions I've seen to this error haven't helped),2,"python, python-2.7, pandas, numpy",mauve
+48208180,2018-01-11 13:24:53,1,34,Pandas: Combine subsetting and filtering,2,"python, pandas",ATMA
+48213594,2018-01-11 18:23:00,0,53,Finding the time difference in a pandas data frame,1,"python, pandas, datetime",ATMA
+48378096,2018-01-22 09:16:11,0,36,add date(created_at) to pervious data on postgresql,1,"python, sql, postgresql, pandas, date",Mehdi
+48317102,2018-01-18 08:47:45,0,57,Compare value in data frame to a value in different column in previous row,1,"python, pandas, dataframe",JojoBambam
+48359091,2018-01-20 17:30:33,2,205,Fill Nulls with values in another dataframe in pandas,3,"python, pandas, dataframe",Jack Daniel
+48425964,2018-01-24 15:23:08,0,143,How to convert a list of lists into a unique Pandas DataFrame column?,2,"python, pandas, dataframe, merge",Iury Sousa
+48395721,2018-01-23 06:48:00,1,36,groupby and apply on two dataframes,1,"python, pandas, pandas-groupby",ironv
+48356416,2018-01-20 12:57:52,2,755,Not able to display time on X-Axis using Matplotlib,1,"python, pandas, matplotlib",xpress_embedo
+48373413,2018-01-22 01:02:25,0,64,Pandas datetime index not plotting properly,1,"python, pandas",Demetri Pananos
+48348350,2018-01-19 19:37:23,1,1453,How can I one hot encode a subset of columns?,3,"python, pandas, scikit-learn, feature-extraction",Demetri Pananos
+48309310,2018-01-17 20:17:13,0,351,How to format my pandas dataFrame output?,1,"python, pandas",MikiBelavista
+48196956,2018-01-10 22:12:27,0,62,"Can't set column name from index to str(index) + string (Pandas, Python)",1,"python, pandas, rename",Korzak
+48390048,2018-01-22 20:51:24,0,142,Return Pandas DataFrame from BeautifulSoup's JSON script output,2,"python, pandas, beautifulsoup",Bob Hopez
+48344549,2018-01-19 15:36:27,1,29,How can I extract the indices from a pandas.DataFrame where values intersect another dataframe?,1,"python, pandas, dataframe, indexing",mightypile
+48339641,2018-01-19 11:02:29,1,44,Summing and getting distinct count Python Pandas,2,"python, pandas",Adam
+48212428,2018-01-11 17:07:11,1,71,Count the ocurrences of a value in a panda dataframe,5,"python, pandas, dataframe, cell, loc",JDev
+48211095,2018-01-11 15:56:01,1,68,Iterating over groups in several DataFrames when groups may absent,2,"python, pandas, dataframe",Igor Bukanov
+48219684,2018-01-12 04:43:10,1,58,Plotting discrete groups count in time axis,1,"python, pandas, seaborn",Nilo Araujo
+48241885,2018-01-13 16:32:11,0,19,Get matrix from list of tuples,1,"python, pandas",Nilo Araujo
+48256866,2018-01-15 04:16:05,2,630,iterating over index of pandas dataframe,1,"python, pandas",Igor Rivin
+48318356,2018-01-18 09:54:48,2,1470,Pandas. Group by index and apply max for column,1,"python, pandas, pandas-groupby",oneor0
+48283596,2018-01-16 14:32:42,1,640,Multi index series into pandas dataframe,1,"pandas, aggregation",Amir
+48299254,2018-01-17 10:48:24,0,1450,Pandas pie plot actual values for multiple graphs,1,"python, pandas, matplotlib",yigitozmen
+48404694,2018-01-23 14:59:17,0,24,Get distinct and unique user counts grouped by year and month with Pandas,1,"python, pandas",yigitozmen
+48412754,2018-01-23 23:53:27,0,149,Create numpy array from multi index pandas series,1,"python, pandas, numpy",yigitozmen
+48446977,2018-01-25 15:54:14,0,114,Creating days from date in pandas dataframe,3,"python, pandas",yigitozmen
+48433292,2018-01-24 23:20:20,0,797,Seaborn color palette with Pandas groupby and .plot function,1,"python, pandas, matplotlib, plot, seaborn",b_kaufman
+48345415,2018-01-19 16:23:07,0,697,how to group categorical values as a group in pandas,2,"python, pandas, group-by, categorical-data",user3104352
+48452774,2018-01-25 22:15:16,2,39,Match dataframe observations based on range,1,"python, pandas, dataframe, append",svenkatesh
+48225744,2018-01-12 11:50:46,3,284,matplotlib.pyplot: how to include custom legends when plotting dataframes?,1,"python, python-3.x, pandas",dabadaba
+48331802,2018-01-18 23:10:40,1,91,Pandas: remove groups based on conditions,3,"python, pandas, pandas-groupby",E.K.
+48283865,2018-01-16 14:46:23,0,46,Find dropout rate using pandas,0,"python, pandas",user3139545
+48405976,2018-01-23 16:01:44,0,719,How to multiply rows of one column after groupby in pandas?,2,"python, pandas",Liron
+48428100,2018-01-24 17:11:53,2,1031,Save pandas dataframe with numpy arrays column,1,"python, pandas, numpy",NunodeSousa
+48447147,2018-01-25 16:02:21,0,431,Pandas cut with non-unique labels,2,"python, pandas",triphook
+48263797,2018-01-15 13:18:08,4,342,Modify background color in Pandas plot?,1,"python-2.7, pandas",mflopezabu
+48264692,2018-01-15 14:09:23,2,53,Adding Dictionaries with lists to a Pandas DataFrame (pd.DataFrame(dict) vs df.append(dict)),1,"python, pandas, dictionary",BillyJo_rambler
+48356488,2018-01-20 13:04:24,1,142,Group by month and date - python,1,"python, pandas",rajeev
+48313420,2018-01-18 03:34:07,0,64,How to retain blank index values in Multilevel index when reading from Excel with Python and pandas?,1,"python, excel, pandas, multi-level",dav3ypants
+48252470,2018-01-14 17:55:04,0,284,pandas/flask: buttons to download dataframes,1,"python, pandas, dataframe, flask, python-routes",mattrweaver
+48271238,2018-01-15 21:59:51,0,80,Can't seem to use use pandas to_csv and read_csv to properly read numpy array,1,"python-3.x, pandas, numpy",Kevin Vasko
+48291170,2018-01-16 22:58:28,1,85,Why does pandas.DataFrame.mean() work but pandas.DataFrame.std() does not over same data,1,"python, pandas, numpy",Kevin Vasko
+48293781,2018-01-17 04:49:15,0,69,How to use pandas.DataFrame.assign() to add new column based on a different dataframe,1,"python, pandas, numpy",Kevin Vasko
+48312655,2018-01-18 01:51:19,1,1330,"Replace dataframe column negative values with nan, in method chain",2,"python, pandas",Hatshepsut
+48258466,2018-01-15 07:19:05,10,1554,Pandas select columns with regex and divide by value,3,"python, regex, pandas",NumesSanguis
+48381085,2018-01-22 11:57:15,1,384,Is it possible to read source code from the pandas library and use that in my own functions?,3,"python, pandas",vestland
+48449264,2018-01-25 18:04:48,4,102,How to find the difference between hour of day of separate days in a pandas dataframe?,2,"python, pandas",vestland
+48321437,2018-01-18 12:30:45,1,86,Get minimun value of a column by comparing previous n rows in Pandas,3,"python, pandas",Charlie Siu
+48305527,2018-01-17 16:15:59,2,328,Error Using pandas with arima,0,"python, pandas, statsmodels, arima",user3476463
+48249559,2018-01-14 12:25:54,1,145,Merge dataframe with aggregation,1,"python, pandas",Max Segal
+48247716,2018-01-14 08:07:36,2,57,Compare 2 dataframes in pandas based on column value,2,"python, pandas, pandas-groupby",Omar Amr
+48423348,2018-01-24 13:11:41,2,427,how to find the count the difference back to the previous zero in a list?,7,"python, algorithm, pandas, dataframe, recursive-datastructures",Bravo
+48437954,2018-01-25 07:47:48,-1,108,Cannot slice a datetime index like a tutorial example does,2,"python, pandas",user3556757
+48224655,2018-01-12 10:48:09,1,31,ffill() not working as expected on a multi-index,0,"python, pandas",user3556757
+48220961,2018-01-12 06:47:59,1,279,"how to ""overwrite-merge"" a pandas dataframe",1,"python, pandas",user3556757
+48281836,2018-01-16 12:57:51,0,283,Taming the x-axis labels of a multi-level pandas dataframe maptlotlib .plot() call,1,"python, pandas, matplotlib",user3556757
+48328758,2018-01-18 19:15:09,2,72,Complex delimite columns in Pandas read_csv,1,"python, python-3.x, pandas",Bart
+48357853,2018-01-20 15:30:15,3,1591,create Pandas Dataframe with unique index,2,"python, pandas",user3605780
+48423159,2018-01-24 13:00:46,1,1148,Get single value from dataframe pandas,2,"python, pandas",user3605780
+48226460,2018-01-12 12:37:43,1,382,Efficient solutions insert or update row pandas,2,"python, pandas",user3605780
+48196273,2018-01-10 21:21:17,1,1341,Python3 How do I send Pandas Dataframe in an email,2,"pandas, dataframe",user3613102
+48411751,2018-01-23 22:17:20,0,43,Making comparisons between Pandas columns,1,"python, pandas",The Nightman
+48192903,2018-01-10 17:24:34,0,76,"Python: If column contains string, then extract another column's value",2,"python, pandas",Jespar
+48218781,2018-01-12 02:37:12,0,163,Open csv file from website directly in pandas without downloading to folder,1,"python, pandas, csv, selenium",user3725021
+48216358,2018-01-11 21:48:27,2,128,"Keras + DataFrameMapper + make_pipeline, input_dim dilemma",0,"python, pandas, scikit-learn, keras",emehex
+48427385,2018-01-24 16:33:58,1,123,Speed up parameter testing using Dask,1,"python, pandas, dask",user3757265
+48195007,2018-01-10 19:48:52,1,24,Get row prior to datetimeindex for conditional calculation,1,"python, pandas",user3757265
+48249715,2018-01-14 12:45:17,0,30,"Printing numpy array and dataframe list, any dependencies?",1,"arrays, python-3.x, pandas, numpy",user3776800
+48235227,2018-01-12 23:05:11,1,60,Pandas get unique monthly data based on date range,2,"python, pandas",AJG519
+48307663,2018-01-17 18:24:58,1,785,Getting weighted average and standard deviation on several columns in Pandas,1,"python, pandas, grouping, aggregate, weighted-average",ahoosh
+48295284,2018-01-17 06:58:20,1,452,Bokeh - Pandas not able to read bytesIO object of excel file from JS,2,"python, pandas, web-applications, bokeh",joel.wilson
+48440882,2018-01-25 10:40:35,0,282,Python: Plotting time series data in Zeppelin causes ValueError alternate times,0,"python, pandas, matplotlib, plot, apache-zeppelin",Hrishikesh
+48313109,2018-01-18 02:53:35,1,296,Getting headers of a remote excel file using requests and pandas,1,"python, pandas, python-requests",DaveKotschessa
+48297940,2018-01-17 09:44:21,1,42,Map values of multiple dataframes and fill columns,4,"python, pandas, dataframe",el323
+48261812,2018-01-15 11:11:19,1,472,pandas groupby dates and years and sum up amounts,2,"python, pandas, group-by, pandas-groupby",el323
+48276837,2018-01-16 08:24:09,2,55,Fill missing dates,2,"python, pandas, date, datetime, dataframe",Nobel
+48427921,2018-01-24 17:02:25,0,95,pandas GroupBy level is much slower than GroupBy on column,0,"python, pandas, pandas-groupby",JOHN
+48371569,2018-01-21 20:47:42,2,249,merge pandas MultiIndex is very slow,1,"python, pandas, merge",JOHN
+48389545,2018-01-22 20:14:09,-1,46,numpy multidimension array from pandas,1,"python, pandas, numpy, keras",solarenqu
+48428173,2018-01-24 17:16:09,2,297,How to change consecutive repeating values in pandas dataframe series to nan or 0?,2,"python, pandas",getaglow
+48406018,2018-01-23 16:04:03,1,195,Python: Get DISTINCT column values from inside CASE function in pandasql,1,"python, pandas, sqlite, pandasql",Mano Prathibhan C
+48245809,2018-01-14 01:04:22,1,1909,How to build a content-based recommender system that uses multiple attributes?,3,"python, pandas, machine-learning, scikit-learn, recommender-systems",James Ko
+48280456,2018-01-16 11:42:26,1,55,Pandas groupby: different indexes returned,2,"python, pandas, grouping",Alex Poca
+48355809,2018-01-20 11:54:44,0,219,Pandas is not empty but gets max() arg is an empty sequence,1,"python, python-2.7, pandas, error-handling, max",Jan
+48366076,2018-01-21 11:01:23,1,40,Combine lists in Pandas column where column name is in list,3,"python, python-2.7, list, pandas",Jan
+48313714,2018-01-18 04:09:36,1,29,"Regex: pandas.str.contains('binary: [49] ') returns False but in fact, it is True",1,"python, regex, python-2.7, pandas",Jan
+48322070,2018-01-18 13:03:52,0,167,Convert numerical string in lists where each list is in Pandas row to float,4,"python, python-2.7, list, pandas, type-conversion",Jan
+48430972,2018-01-24 20:22:15,0,231,Apply based on dataframe datetime columns returning comparison error,1,"python, pandas, datetime, apply, series",CambrianCatalyst
+48426505,2018-01-24 15:52:23,0,28,Can't work out how to apply multi-keyed dictionary vals back to dataframe column,1,"python, pandas, dictionary, dataframe, iteration",CambrianCatalyst
+48342588,2018-01-19 13:49:09,0,80,Invert Pandas Multiindexed DataFrame,1,"python, pandas, multi-index, matrix-inverse",tdiddy
+48217019,2018-01-11 22:45:00,2,58,Adding a column thats Max value of lookback x row in pandas,1,"python, pandas",tarot
+48401844,2018-01-23 12:32:06,1,61,Fuzzy matching between columns of different dataframes (of different lengths),0,"python, pandas, fuzzy-search",famargar
+48233746,2018-01-12 20:42:42,1,190,How can I make a dataframe with duplicate datetime index entries unique?,1,"python, pandas, datetime, dataframe",CT00
+48428393,2018-01-24 17:29:14,1,110,How Does Pandas `.resample` work? DST weirdness,0,"python-3.x, pandas, pytz",jackalack
+48400760,2018-01-23 11:34:49,1,35,output where pandas Series of booleans is True,1,"python, pandas, series",cardamom
+48324436,2018-01-18 15:10:04,1,80,Check for differences between the columns of two pandas data frames side by side,1,"python, python-3.x, pandas",cardamom
+48232121,2018-01-12 18:30:56,1,303,Subtract from each cell in pandas dataframe based on value,3,"python, pandas",Maria
+48210762,2018-01-11 15:38:37,2,58,.ffill() overwriting existing values,2,pandas,kwentine
+48198953,2018-01-11 02:25:49,2,376,"Checking if value exists in pandas row, and if so, in which columns",4,"python, pandas, dataframe",François M.
+48368986,2018-01-21 16:25:24,0,36,Is it possible to utilize a list as a single column value in pandas?,2,"python, python-3.x, pandas",wasd
+48351637,2018-01-20 01:09:12,1,55,Index pandas dataframe by time difference,1,"python, pandas, dataframe, indexing",Mustard Tiger
+48283286,2018-01-16 14:15:20,1,39,What is the meaning of 'NK' in pandas int64?,0,"python-3.x, pandas, type-conversion",Saber Alex
+48273315,2018-01-16 02:35:20,2,233,Pandas skip missing values in map function,1,"python, pandas, dataframe",Jazz
+48440957,2018-01-25 10:44:38,0,42,Cloud SQL insert error when missing values/ big file,1,"python, mysql, pandas",Jazz
+48209401,2018-01-11 14:29:05,1,441,Create a dataframe based on column values of another dataframe,1,"python, pandas, pandas-groupby",Techflu
+48405028,2018-01-23 15:14:54,1,59,Create a python dataframe using a conditional groupby,4,"python, pandas, dataframe",Techflu
+48298328,2018-01-17 10:03:05,-2,169,How to combine columns with same name?,2,"python, pandas",devang singhi
+48293700,2018-01-17 04:39:00,1,87,Django ORM calculations between records,2,"django, pandas, django-models, django-queryset",ac2001
+48388144,2018-01-22 18:35:25,0,32,Combine two DataFrames that duplicate data,0,"python, pandas",ac2001
+48365315,2018-01-21 09:15:00,1,668,python .apply() throwing ValueError: cannot reindex from a duplicate axis,2,"python, pandas, dataframe",Jaskaran Singh Puri
+48380586,2018-01-22 11:30:00,-1,581,.apply() throwing TypeError: object of type 'float' has no len(),2,"python, pandas",Jaskaran Singh Puri
+48301809,2018-01-17 12:59:41,0,181,Variable inflation factor not working with dataframes python,1,"python, pandas, numpy, statistics, statsmodels",Jaskaran Singh Puri
+48204501,2018-01-11 10:12:35,0,131,startswith returns <map object at 0x7fbfe6954470> in Jupyter,2,"python, pandas, jupyter-notebook",Peter
+48196497,2018-01-10 21:38:29,1,60,Min/Max over numbers and strings in row,3,"python, pandas, dataframe",Peter
+48357259,2018-01-20 14:25:26,2,177,Max of column and index as tuples,2,"python, pandas",Peter
+48350850,2018-01-19 23:12:38,3,11176,Subtract two columns in dataframe,5,"python, pandas",Peter
+48248450,2018-01-14 09:59:00,2,1222,"convert year, month columns to datetime in python, generate csv",3,"python, python-3.x, python-2.7, pandas, datetime",vinod bhandary
+48273099,2018-01-16 02:02:38,0,271,Time series Python Plot (Axes mismatch),1,"python, pandas, matplotlib, plot, time-series",IronKirby
+48361467,2018-01-20 21:50:36,3,229,xlwings fails to open workbook with ambiguous error,0,"python, pandas, xlwings",PhilectorIV
+48391568,2018-01-22 22:53:55,3,1071,Matplotlib - Creating plot for black background presentation slides,1,"python, pandas, matplotlib, plot",stackoverflowuser2010
+48312251,2018-01-18 00:49:05,1,600,Pandas: Merge (or inner join) two dataframes but keep columns from only one,1,"python, pandas",stackoverflowuser2010
+48325935,2018-01-18 16:25:35,1,537,How to apply df.min() and df.max() distributively over many DataFrames,1,"python, pandas, dataframe, normalization",KOB
+48366549,2018-01-21 12:02:40,-2,38,first element to become the key each row,2,"python, pandas, dictionary",Herc01
+48445426,2018-01-25 14:38:05,3,393,Pandas :How to split the tuple data in column and create multiple columns,2,"python, pandas, geopy",punit kumar Sharma
+48424622,2018-01-24 14:17:30,0,1223,Basemap: plot a world map with countries and bubbles with data,1,"python, pandas, matplotlib, matplotlib-basemap",punit kumar Sharma
+48303799,2018-01-17 14:46:56,3,735,Pandas: Groupby two columns and count the occurence of all values for 2nd column,1,"python, pandas, pandas-groupby",punit kumar Sharma
+48325859,2018-01-18 16:22:11,2,293,Subclass pandas DataFrame with required argument,1,"pandas, dataframe, subclass",hlu
+48284800,2018-01-16 15:34:52,0,667,How to output box coordinates produced from Tensorflow Object Detection API,0,"xml, python-3.x, pandas, numpy, tensorflow",Ajinkya Bobade
+48222566,2018-01-12 08:50:13,0,254,How can I impute the NA in a dataframe with values randomly selected from a specified normal distribution,1,"python, pandas, imputation",user4672728
+48325294,2018-01-18 15:53:00,0,80,Python - Using default values for dataframe in method,2,"python, pandas",ekjcfn3902039
+48283808,2018-01-16 14:43:55,0,29,Python column creation based on conditional,1,"python, pandas",ekjcfn3902039
+48244097,2018-01-13 20:39:23,2,1342,Efficient way to find price momentum in python: averaging last n entries of a column,3,"python, pandas, numpy",GRS
+48307008,2018-01-17 17:43:24,1,2016,Pandas to_sql doesn't insert any data in my table,4,"python, pandas, sqlalchemy",Nasia Ntalla
+48226506,2018-01-12 12:40:44,3,786,How to get one hot encoding of specific words in a text in Pandas?,1,"python, pandas, scipy, one-hot-encoding",Dark
+48223205,2018-01-12 09:31:12,0,873,How to subset based on multiple conditions in pandas dataframe,1,"python, pandas, subset",Shuvayan Das
+48261657,2018-01-15 11:00:54,0,83,How to rearrange pandas groupby dataframe output,1,"pandas, pandas-groupby",nimals1986
+48254454,2018-01-14 21:42:27,1,357,How to groupby a row/horizontally (Pandas),2,"python, pandas, pandas-groupby",Tai
+48201521,2018-01-11 07:07:21,11,336,Will changes in DataFrame.values always modify the values in the data frame?,2,"python, pandas, numpy, dataframe",Tai
+48344027,2018-01-19 15:07:02,0,42,Apply Prize Function To Large DataFrame Pandas,2,"python, pandas",R.J. Jackson
+48252485,2018-01-14 17:56:30,0,151,Modifying an excel sheet in a excel book with pandas,0,"excel, pandas",ic_fl2
+48248821,2018-01-14 10:51:28,2,57,How to efficiently dropna when the NaNs are contained in the index?,3,"python, performance, pandas, numpy",coldspeed
+48222307,2018-01-12 08:32:20,1,886,Regular expression SpaCy,1,"regex, pandas, nltk, spacy",Programmer_nltk
+48249291,2018-01-14 11:54:46,0,1665,Sentence tokenizer - spaCy to pandas,1,"python, pandas, spacy",Programmer_nltk
+48391019,2018-01-22 22:07:16,0,211,Python pandas plotting multiple graphs on one plot,1,"python, pandas, matplotlib, plot",Ravonrip
+48421056,2018-01-24 11:10:46,2,256,Fast method for forward filling with function nans in pandas dataframe,2,"python, performance, pandas, dataframe",Giovanni De Gaetano
+48369984,2018-01-21 18:01:39,0,35,data-frame remove duplicate indexed rows,1,"python, pandas, dataframe",Stacey
+48274259,2018-01-16 04:47:44,0,31,Is there a way to add a title to a dataframe spanning across multiple columns?,1,"python, pandas",pr338
+48200837,2018-01-11 06:16:26,0,800,pandas rolling mean didn't work for my time data series,1,"python, pandas, moving-average",Harry
+48193633,2018-01-10 18:08:54,0,583,pandas replace multiple values (that you do not know) on one column,2,"pandas, data-cleaning",Thabra
+48210010,2018-01-11 15:00:51,0,38,pandas - automate graph using the combination of two columns,1,"python, pandas, graph",Thabra
+48207854,2018-01-11 13:06:32,1,42,pandas - transform several rows in columns following the status of the rows,2,"pandas, data-manipulation",Thabra
+48319617,2018-01-18 10:55:17,2,1095,Pandas - Remove strings from a float number in a column,2,"python, pandas, data-cleaning",Thabra
+48434721,2018-01-25 02:31:04,0,44,Matching and Replacing Sequences in Dataframe,0,"python, pandas, match, matching",Sveinn
+48287782,2018-01-16 18:37:37,0,44,Set new column names when applying functions to DataFrames with multiprocessing,1,"python, pandas, multiprocessing",Xoel López Barata
+48354873,2018-01-20 10:12:41,1,31,Python/Pandas syntax for creating a new dataframe by comparing two columns,1,"python, pandas, dataframe",Danny W
+48323981,2018-01-18 14:47:18,1,32,Df groupby set comparison,1,"python, pandas, pandas-groupby",Davtho1983
+48325601,2018-01-18 16:09:55,0,55,Pandas keeps converting strings to int,1,"python, string, pandas",Davtho1983
+48424673,2018-01-24 14:19:59,1,61,Pandas pivot giving me lots of 'none' values,1,"python, pandas, pivot",Davtho1983
+48334347,2018-01-19 04:57:47,0,332,read_excel in pandas giving error for no header with index_col,2,"python, pandas",Sidhant Shubham
+48270074,2018-01-15 20:16:56,1,1140,Pandas - read_csv encoding error,0,"python, pandas, csv, encoding",Ryan Erwin
+48243370,2018-01-13 19:08:11,2,458,numba.vectorize - Unsupported array dtype,1,"python, pandas, numba",Ryan Erwin
+48453212,2018-01-25 22:52:18,1,125,Conditional Resample - Pandas,1,"python, pandas",Ryan Erwin
+48431868,2018-01-24 21:27:11,5,1332,Collapse pandas multiindex to a single index,2,"python, pandas, datetime",user217285
+48199383,2018-01-11 03:33:39,4,1509,Getting an error importing excel file into pandas selecting the usecols parameter,2,"python, pandas",nk abram
+48393259,2018-01-23 02:26:04,2,97,Count unique pairs and store counts in a matrix,2,"python, pandas, pivot",visitor
+48403244,2018-01-23 13:44:40,0,103,"closest points based on coordinates, python",1,"python, pandas, numpy, scipy, kdtree",bikuser
+48447641,2018-01-25 16:27:08,1,256,Cumulative Sum Up to Threshold,2,"python, python-3.x, pandas",DrTRD
+48245517,2018-01-14 00:10:20,0,256,Read json output into Pandas Dataframe,3,"json, pandas",alpenmilch411
+48351811,2018-01-20 01:40:11,0,86,Converting Pandas daily timestep to 52 week per year timestep with the last week of 8 days,1,"python, pandas, datetime, group-by, pandas-groupby",kasra545
+48392792,2018-01-23 01:22:53,0,41,Pandas str instances into one big list,1,"python-3.x, pandas, nltk, text-mining",itsbrycehere
+48370255,2018-01-21 18:30:58,1,298,"python - read file into dictionary - delimited with curly brackets, no comma delimiter",2,"python, json, pandas, numpy, dictionary",sspaeti
+48223370,2018-01-12 09:39:24,1,563,Python Plotly: autosize table plot,0,"python, python-3.x, pandas, plotly",JuuLes87
+48309590,2018-01-17 20:36:40,1,251,create pivot table with multilevel index in pandas,1,"python, pandas, pivot, pivot-table, reshape",Lisle
+48190091,2018-01-10 14:54:00,0,52,How can I insert rows in PANDA data in Python?,2,pandas,Alejandro
+48192954,2018-01-10 17:27:59,0,30,Why can't i use contains within query function of pandas?,1,"python, python-3.x, pandas, dataframe",Ujjal Das
+48214863,2018-01-11 19:53:19,4,275,Python Replace Whole Values in Dataframe String and Not Substrings,3,"python, regex, pandas, replace",Windstorm1981
+48213034,2018-01-11 17:44:57,1,23,Python Pandas Add a Row to a Multi-Indexed Datafrane,1,"python, pandas, multi-index",Windstorm1981
+48299312,2018-01-17 10:51:33,2,233,Python - DataFrame: Multiply multiple columns by another column and save in new columns,1,"python, python-3.x, pandas, dataframe",Hugo Ribeiro
+48456747,2018-01-26 06:39:49,1,282,Pandas datetime format to prevent NaT,1,"pandas, datetime, datetime-format",user42527
+48338064,2018-01-19 09:41:18,0,839,Pandas: Read skipping lines that starts with a certain string,2,"python, pandas, python-3.5",Andrea
+48301002,2018-01-17 12:19:08,0,33,Quickly filter by timestamp falling within a number of ranges,0,"python, pandas",Steve
+48348361,2018-01-19 19:37:57,2,55,Assigning to dataframe column based on dict value,2,"python, pandas",Chris Decker
+48280003,2018-01-16 11:17:37,2,43,Pivot only certain values in a column,1,"python, pandas, reshape",Ettore Rizza
+48334761,2018-01-19 05:39:57,1,34,"Pandas - For a given date in one column, how many dates in another column are less than that date?",2,"python, pandas, date, numpy, dataframe",boldbrandywine
+48372543,2018-01-21 22:52:19,1,390,Beautifulsoup scraping table from website with requests for pandas,1,"python, pandas, beautifulsoup, python-requests",skeitel
+48325414,2018-01-18 15:59:05,4,39,Shifting dates into normalized date columns,1,"python, pandas",M Arroyo
+48302066,2018-01-17 13:14:48,1,567,Fastest way to filter out pandas dataframe rows containing special characters,1,"python, pandas, dataframe",muazfaiz
+48228060,2018-01-12 14:15:58,3,781,Filter pandas dataframe from tuples,1,"python, pandas",Yogi
+48249236,2018-01-14 11:47:08,1,430,pandas: bin data into specific number of bins of specific size,1,"pandas, binning",spiral01
+48363338,2018-01-21 03:15:21,1,51,How to count the number of same value across multiple columns?,2,"python, pandas",danche
+48280129,2018-01-16 11:24:04,0,281,Parallelizing pandas .groupby() and .agg() on chunks of a huge csv file,0,"python, pandas, csv, parallel-processing",Borislav Aymaliev
+48222013,2018-01-12 08:09:09,1,26,Convert Pandas Column to Dict with Column Title as Key and Column Values as Values,1,"python, pandas",Fregy
+48366561,2018-01-21 12:04:20,1,54,Select rows where column values are between a given range,2,"python, pandas, dataframe",user5514633
+48319633,2018-01-18 10:56:12,3,106,Pandas: Transform and merge a date interval into a dummy variable in a panel,1,"python, pandas, datetime",Jeff
+48273713,2018-01-16 03:34:18,0,127,Plot separate histograms from dataframe python,1,"python, pandas, dataframe, histogram",Mike
+48290743,2018-01-16 22:19:45,0,58,How to calculate rows which reference previous row with conditions in Pandas dataframe,0,"python, pandas",Xiao Tan
+48397171,2018-01-23 08:28:40,0,40,"pd.core.groupby.data error no numeric types to aggregate - ok for max/min, not ok for mean/std",1,"python, pandas, pandas-groupby",hartmut
+48397514,2018-01-23 08:49:55,1,29,pd.groupby by column + list,1,"python, pandas, pandas-groupby",hartmut
+48400481,2018-01-23 11:21:42,3,116,min() function in pandas column,1,"python-3.x, pandas, pandas-groupby",Arun
+48250192,2018-01-14 13:44:30,1,49,Very Basic Python 3.6 Plotting Issue,1,"python-3.x, pandas, plot",MRL
+48276313,2018-01-16 07:49:19,1,125,how to split dict column from pandas data frame,1,"python, pandas, dataframe",Rakesh Bhagam
+48417874,2018-01-24 08:27:39,1,30,split pandas single column(List of dict) and append as new keys of dict as new columns,1,"python, pandas, dictionary, data-analysis",Rakesh Bhagam
+48450332,2018-01-25 19:17:19,4,309,How to sum certain values in a pandas column DataFrame in a specific date range,1,"python, pandas, dataframe",Hana
+48390811,2018-01-22 21:49:56,1,78,Plotting best line of fit over a scatterplot of 2 columns of a pandas DataFrame,1,"python, pandas, linear-regression, seaborn",Hana
+48328468,2018-01-18 18:56:35,1,38,"How to make some pandas column values default to another value in a different column, but same row?",2,"python, pandas, dataframe, replace",Hana
+48346213,2018-01-19 17:12:02,1,368,How to compare values in a column by date in pandas?,1,"python, pandas, dataframe",Hana
+48236383,2018-01-13 02:22:07,1,1577,How to perform .describe() method on variables that have boolean data type in pandas,2,"python, pandas",Amin Ghaderi
+48243507,2018-01-13 19:26:28,4,281,Group rows by overlapping ranges,2,"python, pandas, group-by, overlap",Binyamin Even
+48317726,2018-01-18 09:23:38,1,446,Pandas - duplicate rows based on values,2,"python, pandas, duplicates, pivot",Binyamin Even
+48366962,2018-01-21 12:50:51,4,110,pandas - take N last values from a group,1,"python, algorithm, pandas, group-by",Binyamin Even
+48332632,2018-01-19 00:59:10,0,30,data populated in the dataframe during for loop but not there anymore after for loop,1,"python, excel, pandas",alwaysaskingquestions
+48318858,2018-01-18 10:18:10,1,107,Why is filtering DataFrame by boolean mask so much faster than apply()?,1,"python, pandas, dataframe",Elmex80s
+48304854,2018-01-17 15:42:15,2,2547,Pandas .filter() method with lambda function,1,"python, pandas",maw501
+48283167,2018-01-16 14:09:08,1,68,How to keep multiple values of same key while reading excel into dictionary using pandas,0,"python, pandas",Mohit Sharma
+48350948,2018-01-19 23:24:32,-1,71,Pandas: exact indexing on timeseries,2,"python, pandas",Alberto Chiusole
+48203449,2018-01-11 09:18:27,1,354,Get substring in one column based on the value in another column,3,"python, python-3.x, pandas",Yang 
+48218455,2018-01-12 01:50:01,8,903,How to create an edge list dataframe from a adjacency matrix in Python?,4,"python, pandas, numpy, dataframe",Melsauce
+48235215,2018-01-12 23:04:00,2,1073,How to create a directed networkx graph from a pandas adjacency matrix dataframe?,1,"python, pandas, numpy, networkx",Melsauce
+48371266,2018-01-21 20:13:39,0,112,Python: Efficient way to find the average tetrahedron clustering coefficient for a graph?,1,"python, pandas, numpy, networkx",Melsauce
+48257497,2018-01-15 05:42:57,1,175,Return all duplicates for pandas across multiple columns,1,"python, pandas, duplicates",GlenCloncurry
+48238747,2018-01-13 09:56:45,1,32,How to extract a particular column in python dataframe with Max values,1,"python, pandas",Swati Kanchan
+48335755,2018-01-19 07:04:30,1,53,df.loc is giving key error in linux environment where the same code is working fine in mac?,1,"pandas, dataframe",sabya
+48357963,2018-01-20 15:43:02,1,49,generate series of plots with pandas dataframe,1,"python, pandas, dataframe, scatter-plot",Marnix
+48430023,2018-01-24 19:15:54,2,92,generating missing rows in running index in pandas,2,"python, python-3.x, pandas",clog14
+48270451,2018-01-15 20:47:45,-1,50,Deleting rows in pandas that occur less than a certain amount based on three columns,2,"python, pandas, dataframe",Bram Zijlstra
+48222825,2018-01-12 09:07:44,0,46,Vectorized modifying timestamp column in pandas with fixed pattern,1,"python, pandas, vectorization",Bram Zijlstra
+48241048,2018-01-13 14:56:19,1,63,Identifying groups with same column value and count them,1,"python, pandas, vectorization",Bram Zijlstra
+48272201,2018-01-15 23:40:06,3,94,Compare dataframe columns to series,4,"python, pandas, dataframe",Lothar
+48272816,2018-01-16 01:15:39,0,26,Merge columns to one columns and new rows in dataframe pandas,1,"python, pandas, dataframe",amn89
